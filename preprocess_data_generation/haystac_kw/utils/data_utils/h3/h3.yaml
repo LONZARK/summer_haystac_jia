@@ -1,0 +1,10 @@
+version: '3.1'
+
+services:
+
+  h3:
+    image: h3
+    stdin_open: true # docker run -i
+    tty: true
+    volumes:
+      - /home/local/KHQ/cole.hill/Documents/HAYSTAC/haystac_eval/h3/src:/home/dev

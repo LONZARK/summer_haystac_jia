@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <input>
+    <ubodt>
+      <file>ubodt.txt</file>
+    </ubodt>
+    <network>
+      <file>roads.shp</file>
+      <id>id</id>
+      <source>u</source>
+      <target>v</target>
+    </network>
+    <gps>
+      <file>gps.csv</file>
+      <id>id</id>
+      <timestamp>timestamp</timestamp>
+      <geom>geometry</geom>
+    </gps>
+  </input>
+  <parameters>
+    <k>8</k>
+    <r>0.002</r>
+    <gps_error>0.0012</gps_error>
+  </parameters>
+  <output>
+    <file>matches.txt</file>
+    <fields>
+        <all></all>
+    </fields>
+  </output>
+  <other>
+    <use_omp/>
+  </other>
+</config>

@@ -1,0 +1,10 @@
+{
+    "test_subject_stops": "/home/local/KHQ/joseph.vanpelt/projects/haystac/data/test.csv",
+    "reference_stops": "/home/local/KHQ/joseph.vanpelt/projects/haystac/data/train.csv",
+    "unique_stops": "/home/local/KHQ/joseph.vanpelt/projects/haystac/data/agent_unique_stop_points.csv",
+    "unique_stops_table": "/home/local/KHQ/joseph.vanpelt/projects/haystac/data/agent_unique_stop_point_table.csv",
+    "reference_unique_stop_dates_comment": "These are the dates of the train data",
+    "reference_unique_stop_dates": ["2023-01-09", "2023-01-10", "2023-01-11", "2023-01-12", "2023-01-13", "2023-01-14", "2023-01-15", "2023-01-16"],
+    "date_split_comment": "this is the time where the test and train data splits",
+    "date_split": "2023-01-16 04:00:00"
+}

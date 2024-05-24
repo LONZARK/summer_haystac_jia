@@ -1,0 +1,23 @@
+{
+    "seed": 42,
+    "sim_start_epoch_seconds": 1677600000,
+    "sim_duration_seconds": 604800,
+    "num_agents": 12000,
+    "sumocfg": "sumo.sumocfg",
+    "sumo_gui": "false",
+    "sumo_logging": "false",
+    "logfile_prefix": "agent_sim",
+    "detect_stuck_agents": "true",
+    "stuck_agent_detector_time": 300,
+    "writer_workers": 1,
+    "num_threads": 8,
+    "use_spatial_distributions": false,
+    "home_dist": "home_distribution_h3res_8.csv",
+    "work_dist": "work_distribution_h3res_8.csv",
+    "pairwise_dist": "od_mat_csr_array.npz",
+    "edge_mapping": "edge_len_h3.csv",
+    "stop_points_only": "false",
+    "checkpoint_dir": "simulation_checkpoints",
+    "simulation_checkpoint_frequency": 43200,
+    "init_checkpoint": ""
+}

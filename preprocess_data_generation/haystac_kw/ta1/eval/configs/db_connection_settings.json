@@ -1,0 +1,7 @@
+{
+    "host": "localhost",
+    "database": "trajectories",
+    "user": "maplibre",
+    "psw": "maplibre",
+    "port": 5432
+}

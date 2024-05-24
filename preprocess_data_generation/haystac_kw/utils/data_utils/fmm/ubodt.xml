@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <input>
+    <network>
+      <file>roads.shp</file>
+      <id>id</id>
+      <source>u</source>
+      <target>v</target>
+    </network>
+  </input>
+  <parameters>
+    <delta>0.0001</delta>
+  </parameters>
+  <output>
+    <file>ubodt.txt</file>
+  </output>
+  <other>
+    <log_level>0</log_level>
+    <use_omp/>
+  </other>
+</config>
