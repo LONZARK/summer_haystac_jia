@@ -1,0 +1,16 @@
+{
+    "objective": "binary",
+    "metric": "binary_logloss",
+    "verbosity": -1,
+    "boosting_type": "gbdt",
+    "sample_pos_weight": 383.8888888888889,
+    "feature_pre_filter": false,
+    "lambda_l1": 0.010782793813084437,
+    "lambda_l2": 0.03055239240980044,
+    "num_leaves": 4,
+    "feature_fraction": 0.852,
+    "bagging_fraction": 0.5988978699024401,
+    "bagging_freq": 5,
+    "min_child_samples": 20,
+    "num_iterations": 1000
+}

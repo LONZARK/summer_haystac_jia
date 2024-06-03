@@ -1,0 +1,1978 @@
+Processing fix_L3Harris_TA1_Trial_Train_Submission
+Training set number of positive samples: 417, negative samples: 901671 (ratio: 0.00046226088807300395)
+Testing set number of positive samples: 117, negative samples: 225406 (ratio: 0.0005187940919551443)
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.0426159	valid_1's binary_logloss: 0.0446809
+Early stopping, best iteration is:
+[2]	valid_0's binary_logloss: 0.0100379	valid_1's binary_logloss: 0.0120111
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.683288	valid_1's binary_logloss: 0.690628
+Early stopping, best iteration is:
+[3]	valid_0's binary_logloss: 0.0080171	valid_1's binary_logloss: 0.0108107
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.0260225	valid_1's binary_logloss: 0.0332054
+Early stopping, best iteration is:
+[2]	valid_0's binary_logloss: 0.0089965	valid_1's binary_logloss: 0.0115711
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.131061	valid_1's binary_logloss: 0.138919
+Early stopping, best iteration is:
+[3]	valid_0's binary_logloss: 0.00855656	valid_1's binary_logloss: 0.010066
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.0743685	valid_1's binary_logloss: 0.0764148
+Early stopping, best iteration is:
+[3]	valid_0's binary_logloss: 0.00619914	valid_1's binary_logloss: 0.00739886
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.0853349	valid_1's binary_logloss: 0.099335
+Early stopping, best iteration is:
+[3]	valid_0's binary_logloss: 0.0065502	valid_1's binary_logloss: 0.00869887
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.0438673	valid_1's binary_logloss: 0.0510266
+Early stopping, best iteration is:
+[5]	valid_0's binary_logloss: 0.007345	valid_1's binary_logloss: 0.00940059
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.023369	valid_1's binary_logloss: 0.0257291
+Early stopping, best iteration is:
+[4]	valid_0's binary_logloss: 0.00912143	valid_1's binary_logloss: 0.0142204
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.0337558	valid_1's binary_logloss: 0.0361372
+Early stopping, best iteration is:
+[5]	valid_0's binary_logloss: 0.00626578	valid_1's binary_logloss: 0.00684098
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.0325737	valid_1's binary_logloss: 0.03371
+Early stopping, best iteration is:
+[5]	valid_0's binary_logloss: 0.00529377	valid_1's binary_logloss: 0.00684686
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00410894	valid_1's binary_logloss: 0.00558493
+Early stopping, best iteration is:
+[10]	valid_0's binary_logloss: 0.00423424	valid_1's binary_logloss: 0.00462878
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00458372	valid_1's binary_logloss: 0.00565897
+Early stopping, best iteration is:
+[8]	valid_0's binary_logloss: 0.00426658	valid_1's binary_logloss: 0.00467335
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.027657	valid_1's binary_logloss: 0.0378132
+Early stopping, best iteration is:
+[2]	valid_0's binary_logloss: 0.0154579	valid_1's binary_logloss: 0.0183472
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00689425	valid_1's binary_logloss: 0.0075896
+Early stopping, best iteration is:
+[10]	valid_0's binary_logloss: 0.00389009	valid_1's binary_logloss: 0.00428215
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.0184661	valid_1's binary_logloss: 0.0220536
+Early stopping, best iteration is:
+[4]	valid_0's binary_logloss: 0.00826209	valid_1's binary_logloss: 0.0109422
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.0501655	valid_1's binary_logloss: 0.0530495
+Early stopping, best iteration is:
+[2]	valid_0's binary_logloss: 0.0109533	valid_1's binary_logloss: 0.0122663
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.0323515	valid_1's binary_logloss: 0.0351803
+Early stopping, best iteration is:
+[2]	valid_0's binary_logloss: 0.0135466	valid_1's binary_logloss: 0.0165841
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.0340209	valid_1's binary_logloss: 0.0365173
+Early stopping, best iteration is:
+[4]	valid_0's binary_logloss: 0.00806677	valid_1's binary_logloss: 0.0111202
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.0319828	valid_1's binary_logloss: 0.0348661
+Early stopping, best iteration is:
+[4]	valid_0's binary_logloss: 0.00699671	valid_1's binary_logloss: 0.00893325
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.0394844	valid_1's binary_logloss: 0.0469979
+Early stopping, best iteration is:
+[4]	valid_0's binary_logloss: 0.00922114	valid_1's binary_logloss: 0.0135884
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.0314447	valid_1's binary_logloss: 0.0367565
+Early stopping, best iteration is:
+[2]	valid_0's binary_logloss: 0.0137952	valid_1's binary_logloss: 0.0170545
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.0314618	valid_1's binary_logloss: 0.0365017
+Early stopping, best iteration is:
+[5]	valid_0's binary_logloss: 0.00557347	valid_1's binary_logloss: 0.00589753
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00689425	valid_1's binary_logloss: 0.0075896
+Early stopping, best iteration is:
+[10]	valid_0's binary_logloss: 0.00389009	valid_1's binary_logloss: 0.00428215
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.0268224	valid_1's binary_logloss: 0.0284858
+Early stopping, best iteration is:
+[5]	valid_0's binary_logloss: 0.0060523	valid_1's binary_logloss: 0.00827473
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00410894	valid_1's binary_logloss: 0.00558493
+Early stopping, best iteration is:
+[10]	valid_0's binary_logloss: 0.00423424	valid_1's binary_logloss: 0.00462878
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.0265163	valid_1's binary_logloss: 0.0290584
+Early stopping, best iteration is:
+[4]	valid_0's binary_logloss: 0.00650466	valid_1's binary_logloss: 0.00842139
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.224215	valid_1's binary_logloss: 0.224337
+Early stopping, best iteration is:
+[2]	valid_0's binary_logloss: 0.00735892	valid_1's binary_logloss: 0.00818444
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.0055632	valid_1's binary_logloss: 0.0061438
+Early stopping, best iteration is:
+[10]	valid_0's binary_logloss: 0.00387868	valid_1's binary_logloss: 0.00427088
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.0131748	valid_1's binary_logloss: 0.0155397
+Early stopping, best iteration is:
+[10]	valid_0's binary_logloss: 0.00388051	valid_1's binary_logloss: 0.00427054
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00600053	valid_1's binary_logloss: 0.00693592
+Early stopping, best iteration is:
+[10]	valid_0's binary_logloss: 0.00387724	valid_1's binary_logloss: 0.00426963
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.005796	valid_1's binary_logloss: 0.00632838
+Early stopping, best iteration is:
+[10]	valid_0's binary_logloss: 0.00387826	valid_1's binary_logloss: 0.00427091
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00707829	valid_1's binary_logloss: 0.00794899
+Early stopping, best iteration is:
+[10]	valid_0's binary_logloss: 0.00387683	valid_1's binary_logloss: 0.00426786
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00695001	valid_1's binary_logloss: 0.00780469
+Early stopping, best iteration is:
+[10]	valid_0's binary_logloss: 0.00387656	valid_1's binary_logloss: 0.00426753
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.0664807	valid_1's binary_logloss: 0.0656392
+Early stopping, best iteration is:
+[10]	valid_0's binary_logloss: 0.00387431	valid_1's binary_logloss: 0.00426531
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.0159659	valid_1's binary_logloss: 0.0179185
+Early stopping, best iteration is:
+[10]	valid_0's binary_logloss: 0.00387134	valid_1's binary_logloss: 0.00426103
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00949991	valid_1's binary_logloss: 0.0111993
+Early stopping, best iteration is:
+[10]	valid_0's binary_logloss: 0.00387226	valid_1's binary_logloss: 0.00426119
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00662293	valid_1's binary_logloss: 0.00742455
+Early stopping, best iteration is:
+[10]	valid_0's binary_logloss: 0.00387431	valid_1's binary_logloss: 0.00426615
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00642812	valid_1's binary_logloss: 0.00685736
+Early stopping, best iteration is:
+[7]	valid_0's binary_logloss: 0.00525868	valid_1's binary_logloss: 0.00577554
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00642812	valid_1's binary_logloss: 0.00685736
+Early stopping, best iteration is:
+[7]	valid_0's binary_logloss: 0.00525868	valid_1's binary_logloss: 0.00577554
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00642812	valid_1's binary_logloss: 0.00685736
+Early stopping, best iteration is:
+[7]	valid_0's binary_logloss: 0.00525868	valid_1's binary_logloss: 0.00577554
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00595775	valid_1's binary_logloss: 0.00656175
+Early stopping, best iteration is:
+[10]	valid_0's binary_logloss: 0.00387142	valid_1's binary_logloss: 0.00426113
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00598192	valid_1's binary_logloss: 0.00658888
+Early stopping, best iteration is:
+[10]	valid_0's binary_logloss: 0.00387146	valid_1's binary_logloss: 0.00426119
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00601243	valid_1's binary_logloss: 0.00662889
+Early stopping, best iteration is:
+[10]	valid_0's binary_logloss: 0.0038715	valid_1's binary_logloss: 0.00426124
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00599198	valid_1's binary_logloss: 0.00660117
+Early stopping, best iteration is:
+[10]	valid_0's binary_logloss: 0.00387148	valid_1's binary_logloss: 0.00426121
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00599465	valid_1's binary_logloss: 0.00660428
+Early stopping, best iteration is:
+[10]	valid_0's binary_logloss: 0.00387148	valid_1's binary_logloss: 0.00426121
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00595804	valid_1's binary_logloss: 0.00656208
+Early stopping, best iteration is:
+[10]	valid_0's binary_logloss: 0.00387142	valid_1's binary_logloss: 0.00426113
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00813967	valid_1's binary_logloss: 0.00815568
+Early stopping, best iteration is:
+[10]	valid_0's binary_logloss: 0.00387142	valid_1's binary_logloss: 0.00426114
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00710503	valid_1's binary_logloss: 0.0078222
+Early stopping, best iteration is:
+[10]	valid_0's binary_logloss: 0.00387171	valid_1's binary_logloss: 0.00426152
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.0159659	valid_1's binary_logloss: 0.0179185
+Early stopping, best iteration is:
+[10]	valid_0's binary_logloss: 0.00387138	valid_1's binary_logloss: 0.00426108
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00747873	valid_1's binary_logloss: 0.0080808
+Early stopping, best iteration is:
+[10]	valid_0's binary_logloss: 0.00387145	valid_1's binary_logloss: 0.00426118
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.0261777	valid_1's binary_logloss: 0.0288939
+Early stopping, best iteration is:
+[10]	valid_0's binary_logloss: 0.00387135	valid_1's binary_logloss: 0.00426104
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00682179	valid_1's binary_logloss: 0.00691768
+Early stopping, best iteration is:
+[10]	valid_0's binary_logloss: 0.00387136	valid_1's binary_logloss: 0.00426105
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00552371	valid_1's binary_logloss: 0.00622883
+Early stopping, best iteration is:
+[10]	valid_0's binary_logloss: 0.00387136	valid_1's binary_logloss: 0.00426105
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00572665	valid_1's binary_logloss: 0.00632553
+Early stopping, best iteration is:
+[10]	valid_0's binary_logloss: 0.00387136	valid_1's binary_logloss: 0.00426105
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00687462	valid_1's binary_logloss: 0.00700327
+Early stopping, best iteration is:
+[10]	valid_0's binary_logloss: 0.00387136	valid_1's binary_logloss: 0.00426105
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.0081363	valid_1's binary_logloss: 0.00886063
+Early stopping, best iteration is:
+[10]	valid_0's binary_logloss: 0.00387135	valid_1's binary_logloss: 0.00426104
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00686033	valid_1's binary_logloss: 0.00819584
+Early stopping, best iteration is:
+[10]	valid_0's binary_logloss: 0.00387135	valid_1's binary_logloss: 0.00426103
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00593053	valid_1's binary_logloss: 0.00662398
+Early stopping, best iteration is:
+[10]	valid_0's binary_logloss: 0.00387135	valid_1's binary_logloss: 0.00426104
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00343538	valid_1's binary_logloss: 0.00387884
+[200]	valid_0's binary_logloss: 0.00333657	valid_1's binary_logloss: 0.003796
+[300]	valid_0's binary_logloss: 0.00326193	valid_1's binary_logloss: 0.00371245
+[400]	valid_0's binary_logloss: 0.00320734	valid_1's binary_logloss: 0.00367105
+[500]	valid_0's binary_logloss: 0.0031592	valid_1's binary_logloss: 0.00363382
+[600]	valid_0's binary_logloss: 0.00312164	valid_1's binary_logloss: 0.00361301
+[700]	valid_0's binary_logloss: 0.00308942	valid_1's binary_logloss: 0.00359071
+[800]	valid_0's binary_logloss: 0.00306421	valid_1's binary_logloss: 0.0035736
+[900]	valid_0's binary_logloss: 0.00303333	valid_1's binary_logloss: 0.00353411
+[1000]	valid_0's binary_logloss: 0.00301181	valid_1's binary_logloss: 0.00352973
+Did not meet early stopping. Best iteration is:
+[1000]	valid_0's binary_logloss: 0.00301181	valid_1's binary_logloss: 0.00352973
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00347219	valid_1's binary_logloss: 0.00388385
+[200]	valid_0's binary_logloss: 0.00336598	valid_1's binary_logloss: 0.00380046
+[300]	valid_0's binary_logloss: 0.00329142	valid_1's binary_logloss: 0.00373125
+[400]	valid_0's binary_logloss: 0.00323304	valid_1's binary_logloss: 0.00368053
+[500]	valid_0's binary_logloss: 0.00318651	valid_1's binary_logloss: 0.00364345
+[600]	valid_0's binary_logloss: 0.00314998	valid_1's binary_logloss: 0.00362368
+[700]	valid_0's binary_logloss: 0.00311703	valid_1's binary_logloss: 0.00359921
+[800]	valid_0's binary_logloss: 0.00309245	valid_1's binary_logloss: 0.00359049
+[900]	valid_0's binary_logloss: 0.00306488	valid_1's binary_logloss: 0.00354954
+[1000]	valid_0's binary_logloss: 0.00304584	valid_1's binary_logloss: 0.00353721
+Did not meet early stopping. Best iteration is:
+[1000]	valid_0's binary_logloss: 0.00304584	valid_1's binary_logloss: 0.00353721
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00343538	valid_1's binary_logloss: 0.00387884
+[200]	valid_0's binary_logloss: 0.00333657	valid_1's binary_logloss: 0.003796
+[300]	valid_0's binary_logloss: 0.00326193	valid_1's binary_logloss: 0.00371245
+[400]	valid_0's binary_logloss: 0.00320734	valid_1's binary_logloss: 0.00367105
+[500]	valid_0's binary_logloss: 0.0031592	valid_1's binary_logloss: 0.00363382
+[600]	valid_0's binary_logloss: 0.00312164	valid_1's binary_logloss: 0.00361301
+[700]	valid_0's binary_logloss: 0.00308942	valid_1's binary_logloss: 0.00359071
+[800]	valid_0's binary_logloss: 0.00306421	valid_1's binary_logloss: 0.0035736
+[900]	valid_0's binary_logloss: 0.00303333	valid_1's binary_logloss: 0.00353411
+[1000]	valid_0's binary_logloss: 0.00301181	valid_1's binary_logloss: 0.00352973
+Did not meet early stopping. Best iteration is:
+[1000]	valid_0's binary_logloss: 0.00301181	valid_1's binary_logloss: 0.00352973
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00343538	valid_1's binary_logloss: 0.00387884
+[200]	valid_0's binary_logloss: 0.00333657	valid_1's binary_logloss: 0.003796
+[300]	valid_0's binary_logloss: 0.00326193	valid_1's binary_logloss: 0.00371245
+[400]	valid_0's binary_logloss: 0.00320734	valid_1's binary_logloss: 0.00367105
+[500]	valid_0's binary_logloss: 0.0031592	valid_1's binary_logloss: 0.00363382
+[600]	valid_0's binary_logloss: 0.00312164	valid_1's binary_logloss: 0.00361301
+[700]	valid_0's binary_logloss: 0.00308942	valid_1's binary_logloss: 0.00359071
+[800]	valid_0's binary_logloss: 0.00306421	valid_1's binary_logloss: 0.0035736
+[900]	valid_0's binary_logloss: 0.00303333	valid_1's binary_logloss: 0.00353411
+[1000]	valid_0's binary_logloss: 0.00301181	valid_1's binary_logloss: 0.00352973
+Did not meet early stopping. Best iteration is:
+[1000]	valid_0's binary_logloss: 0.00301181	valid_1's binary_logloss: 0.00352973
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00343538	valid_1's binary_logloss: 0.00387884
+[200]	valid_0's binary_logloss: 0.00333657	valid_1's binary_logloss: 0.003796
+[300]	valid_0's binary_logloss: 0.00326193	valid_1's binary_logloss: 0.00371245
+[400]	valid_0's binary_logloss: 0.00320734	valid_1's binary_logloss: 0.00367105
+[500]	valid_0's binary_logloss: 0.0031592	valid_1's binary_logloss: 0.00363382
+[600]	valid_0's binary_logloss: 0.00312164	valid_1's binary_logloss: 0.00361301
+[700]	valid_0's binary_logloss: 0.00308942	valid_1's binary_logloss: 0.00359071
+[800]	valid_0's binary_logloss: 0.00306421	valid_1's binary_logloss: 0.0035736
+[900]	valid_0's binary_logloss: 0.00303333	valid_1's binary_logloss: 0.00353411
+[1000]	valid_0's binary_logloss: 0.00301181	valid_1's binary_logloss: 0.00352973
+Did not meet early stopping. Best iteration is:
+[1000]	valid_0's binary_logloss: 0.00301181	valid_1's binary_logloss: 0.00352973
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00343538	valid_1's binary_logloss: 0.00387884
+[200]	valid_0's binary_logloss: 0.00333657	valid_1's binary_logloss: 0.003796
+[300]	valid_0's binary_logloss: 0.00326193	valid_1's binary_logloss: 0.00371245
+[400]	valid_0's binary_logloss: 0.00320734	valid_1's binary_logloss: 0.00367105
+[500]	valid_0's binary_logloss: 0.0031592	valid_1's binary_logloss: 0.00363382
+[600]	valid_0's binary_logloss: 0.00312164	valid_1's binary_logloss: 0.00361301
+[700]	valid_0's binary_logloss: 0.00308942	valid_1's binary_logloss: 0.00359071
+[800]	valid_0's binary_logloss: 0.00306421	valid_1's binary_logloss: 0.0035736
+[900]	valid_0's binary_logloss: 0.00303333	valid_1's binary_logloss: 0.00353411
+[1000]	valid_0's binary_logloss: 0.00301181	valid_1's binary_logloss: 0.00352973
+Did not meet early stopping. Best iteration is:
+[1000]	valid_0's binary_logloss: 0.00301181	valid_1's binary_logloss: 0.00352973
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00343538	valid_1's binary_logloss: 0.00387884
+[200]	valid_0's binary_logloss: 0.00333657	valid_1's binary_logloss: 0.003796
+[300]	valid_0's binary_logloss: 0.00326193	valid_1's binary_logloss: 0.00371245
+[400]	valid_0's binary_logloss: 0.00320734	valid_1's binary_logloss: 0.00367105
+[500]	valid_0's binary_logloss: 0.0031592	valid_1's binary_logloss: 0.00363382
+[600]	valid_0's binary_logloss: 0.00312164	valid_1's binary_logloss: 0.00361301
+[700]	valid_0's binary_logloss: 0.00308942	valid_1's binary_logloss: 0.00359071
+[800]	valid_0's binary_logloss: 0.00306421	valid_1's binary_logloss: 0.0035736
+[900]	valid_0's binary_logloss: 0.00303333	valid_1's binary_logloss: 0.00353411
+[1000]	valid_0's binary_logloss: 0.00301181	valid_1's binary_logloss: 0.00352973
+Did not meet early stopping. Best iteration is:
+[1000]	valid_0's binary_logloss: 0.00301181	valid_1's binary_logloss: 0.00352973
+Best parameters:
+{'objective': 'binary', 'metric': 'binary_logloss', 'verbosity': -1, 'boosting_type': 'gbdt', 'sample_pos_weight': 2162.2805755395684, 'feature_pre_filter': False, 'lambda_l1': 1.0209274648427998e-07, 'lambda_l2': 0.40813821332619576, 'num_leaves': 2, 'feature_fraction': 0.4, 'bagging_fraction': 0.41858525641783767, 'bagging_freq': 5, 'min_child_samples': 20, 'num_iterations': 1000}
+===  Training  ===
+Accuracy: 0.9995665611337253
+Confusion Matrix:
+[[901670      1]
+ [   390     27]]
+AUPR: 0.1489938214099019
+AUROC: 0.8552065017935111
+=== Testing ===
+Accuracy: 0.9995166790083495
+Confusion Matrix:
+[[225406      0]
+ [   109      8]]
+AUPR: 0.13537626833240485
+AUROC: 0.7972160358543152
+===            ===
+Feature importance: [ 63 192  65  46  50 148  45  76  40 126 149]
+Processing fix_Baseline_TA1_Trial_Train_Submission
+Training set number of positive samples: 740, negative samples: 1781368 (ratio: 0.00041523858262237755)
+Testing set number of positive samples: 177, negative samples: 445350 (ratio: 0.0003972823195900585)
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.024515	valid_1's binary_logloss: 0.0259634
+Early stopping, best iteration is:
+[4]	valid_0's binary_logloss: 0.0050858	valid_1's binary_logloss: 0.00580006
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.0411586	valid_1's binary_logloss: 0.0440825
+Early stopping, best iteration is:
+[3]	valid_0's binary_logloss: 0.00485072	valid_1's binary_logloss: 0.00475549
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00679827	valid_1's binary_logloss: 0.00872248
+Early stopping, best iteration is:
+[3]	valid_0's binary_logloss: 0.0048233	valid_1's binary_logloss: 0.00443304
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.0192797	valid_1's binary_logloss: 0.0246573
+Early stopping, best iteration is:
+[1]	valid_0's binary_logloss: 0.00613825	valid_1's binary_logloss: 0.00573588
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 1.21583	valid_1's binary_logloss: 1.19668
+Early stopping, best iteration is:
+[9]	valid_0's binary_logloss: 0.00449209	valid_1's binary_logloss: 0.00552622
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.022519	valid_1's binary_logloss: 0.0216007
+Early stopping, best iteration is:
+[4]	valid_0's binary_logloss: 0.00455848	valid_1's binary_logloss: 0.0047856
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.012504	valid_1's binary_logloss: 0.0175405
+Early stopping, best iteration is:
+[2]	valid_0's binary_logloss: 0.00555864	valid_1's binary_logloss: 0.00498161
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.0232856	valid_1's binary_logloss: 0.0349204
+Early stopping, best iteration is:
+[2]	valid_0's binary_logloss: 0.00735909	valid_1's binary_logloss: 0.00815374
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.0563656	valid_1's binary_logloss: 0.0665832
+Early stopping, best iteration is:
+[2]	valid_0's binary_logloss: 0.00954463	valid_1's binary_logloss: 0.0114225
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.0563656	valid_1's binary_logloss: 0.0665832
+Early stopping, best iteration is:
+[2]	valid_0's binary_logloss: 0.00954463	valid_1's binary_logloss: 0.0114225
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00421955	valid_1's binary_logloss: 0.00418348
+Early stopping, best iteration is:
+[34]	valid_0's binary_logloss: 0.00395982	valid_1's binary_logloss: 0.00366607
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00487563	valid_1's binary_logloss: 0.00689579
+Early stopping, best iteration is:
+[2]	valid_0's binary_logloss: 0.00400564	valid_1's binary_logloss: 0.00373186
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00625592	valid_1's binary_logloss: 0.00884032
+Early stopping, best iteration is:
+[2]	valid_0's binary_logloss: 0.00419026	valid_1's binary_logloss: 0.00385231
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00675795	valid_1's binary_logloss: 0.00804552
+Early stopping, best iteration is:
+[2]	valid_0's binary_logloss: 0.00386782	valid_1's binary_logloss: 0.00353307
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.0290613	valid_1's binary_logloss: 0.0402562
+Early stopping, best iteration is:
+[2]	valid_0's binary_logloss: 0.00686537	valid_1's binary_logloss: 0.00742016
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.0180632	valid_1's binary_logloss: 0.0257174
+Early stopping, best iteration is:
+[5]	valid_0's binary_logloss: 0.00574403	valid_1's binary_logloss: 0.00559053
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00421955	valid_1's binary_logloss: 0.00418348
+Early stopping, best iteration is:
+[34]	valid_0's binary_logloss: 0.00395982	valid_1's binary_logloss: 0.00366607
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.0417319	valid_1's binary_logloss: 0.0496733
+Early stopping, best iteration is:
+[3]	valid_0's binary_logloss: 0.00789396	valid_1's binary_logloss: 0.0092878
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.0205741	valid_1's binary_logloss: 0.0299951
+Early stopping, best iteration is:
+[2]	valid_0's binary_logloss: 0.00600774	valid_1's binary_logloss: 0.00577403
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.0491735	valid_1's binary_logloss: 0.059495
+Early stopping, best iteration is:
+[2]	valid_0's binary_logloss: 0.00818253	valid_1's binary_logloss: 0.00899072
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.0462032	valid_1's binary_logloss: 0.0589481
+Early stopping, best iteration is:
+[2]	valid_0's binary_logloss: 0.010167	valid_1's binary_logloss: 0.0124836
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00336963	valid_1's binary_logloss: 0.00345574
+Early stopping, best iteration is:
+[60]	valid_0's binary_logloss: 0.00340463	valid_1's binary_logloss: 0.00341045
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.0127592	valid_1's binary_logloss: 0.0181664
+Early stopping, best iteration is:
+[2]	valid_0's binary_logloss: 0.00512257	valid_1's binary_logloss: 0.00503828
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.0109954	valid_1's binary_logloss: 0.0172122
+Early stopping, best iteration is:
+[2]	valid_0's binary_logloss: 0.00515756	valid_1's binary_logloss: 0.00507322
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.0310987	valid_1's binary_logloss: 0.0409641
+Early stopping, best iteration is:
+[2]	valid_0's binary_logloss: 0.00712809	valid_1's binary_logloss: 0.00774221
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00336939	valid_1's binary_logloss: 0.00331248
+[200]	valid_0's binary_logloss: 0.00327469	valid_1's binary_logloss: 0.00324961
+[300]	valid_0's binary_logloss: 0.0032183	valid_1's binary_logloss: 0.00322303
+[400]	valid_0's binary_logloss: 0.00316722	valid_1's binary_logloss: 0.00320117
+[500]	valid_0's binary_logloss: 0.00311935	valid_1's binary_logloss: 0.00318543
+[600]	valid_0's binary_logloss: 0.00307376	valid_1's binary_logloss: 0.00317251
+[700]	valid_0's binary_logloss: 0.00303275	valid_1's binary_logloss: 0.00315627
+[800]	valid_0's binary_logloss: 0.0029988	valid_1's binary_logloss: 0.00314383
+[900]	valid_0's binary_logloss: 0.00296597	valid_1's binary_logloss: 0.00313329
+[1000]	valid_0's binary_logloss: 0.0029366	valid_1's binary_logloss: 0.0031274
+Did not meet early stopping. Best iteration is:
+[1000]	valid_0's binary_logloss: 0.0029366	valid_1's binary_logloss: 0.0031274
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.0626017	valid_1's binary_logloss: 0.0751517
+Early stopping, best iteration is:
+[3]	valid_0's binary_logloss: 0.00473984	valid_1's binary_logloss: 0.00468976
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00333451	valid_1's binary_logloss: 0.00329803
+[200]	valid_0's binary_logloss: 0.00323658	valid_1's binary_logloss: 0.00326783
+[300]	valid_0's binary_logloss: 0.00317325	valid_1's binary_logloss: 0.00325375
+[400]	valid_0's binary_logloss: 0.00312454	valid_1's binary_logloss: 0.00323846
+[500]	valid_0's binary_logloss: 0.00307694	valid_1's binary_logloss: 0.00321422
+[600]	valid_0's binary_logloss: 0.00302809	valid_1's binary_logloss: 0.00319723
+[700]	valid_0's binary_logloss: 0.00298489	valid_1's binary_logloss: 0.00318047
+[800]	valid_0's binary_logloss: 0.00295158	valid_1's binary_logloss: 0.00318076
+[900]	valid_0's binary_logloss: 0.00291798	valid_1's binary_logloss: 0.00316529
+[1000]	valid_0's binary_logloss: 0.00288591	valid_1's binary_logloss: 0.00314938
+Did not meet early stopping. Best iteration is:
+[1000]	valid_0's binary_logloss: 0.00288591	valid_1's binary_logloss: 0.00314938
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00333769	valid_1's binary_logloss: 0.00329238
+[200]	valid_0's binary_logloss: 0.00324109	valid_1's binary_logloss: 0.00324731
+[300]	valid_0's binary_logloss: 0.00317379	valid_1's binary_logloss: 0.00321344
+[400]	valid_0's binary_logloss: 0.00312066	valid_1's binary_logloss: 0.00320062
+[500]	valid_0's binary_logloss: 0.00307687	valid_1's binary_logloss: 0.0031837
+[600]	valid_0's binary_logloss: 0.00303122	valid_1's binary_logloss: 0.00316853
+[700]	valid_0's binary_logloss: 0.00299117	valid_1's binary_logloss: 0.00315198
+[800]	valid_0's binary_logloss: 0.00295519	valid_1's binary_logloss: 0.00314965
+[900]	valid_0's binary_logloss: 0.00292348	valid_1's binary_logloss: 0.0031371
+[1000]	valid_0's binary_logloss: 0.0028907	valid_1's binary_logloss: 0.00312219
+Did not meet early stopping. Best iteration is:
+[1000]	valid_0's binary_logloss: 0.0028907	valid_1's binary_logloss: 0.00312219
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.0033573	valid_1's binary_logloss: 0.00331938
+[200]	valid_0's binary_logloss: 0.00325742	valid_1's binary_logloss: 0.00325966
+[300]	valid_0's binary_logloss: 0.00319025	valid_1's binary_logloss: 0.00323311
+[400]	valid_0's binary_logloss: 0.00313842	valid_1's binary_logloss: 0.00321125
+[500]	valid_0's binary_logloss: 0.00308776	valid_1's binary_logloss: 0.00319142
+[600]	valid_0's binary_logloss: 0.00304357	valid_1's binary_logloss: 0.00317467
+[700]	valid_0's binary_logloss: 0.00300298	valid_1's binary_logloss: 0.0031611
+Early stopping, best iteration is:
+[694]	valid_0's binary_logloss: 0.0030055	valid_1's binary_logloss: 0.00315909
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.0033315	valid_1's binary_logloss: 0.00330428
+[200]	valid_0's binary_logloss: 0.00323	valid_1's binary_logloss: 0.00324922
+[300]	valid_0's binary_logloss: 0.0031611	valid_1's binary_logloss: 0.00322817
+[400]	valid_0's binary_logloss: 0.00311005	valid_1's binary_logloss: 0.00320036
+[500]	valid_0's binary_logloss: 0.00305611	valid_1's binary_logloss: 0.00318236
+[600]	valid_0's binary_logloss: 0.0030144	valid_1's binary_logloss: 0.00316582
+[700]	valid_0's binary_logloss: 0.00297579	valid_1's binary_logloss: 0.00314586
+[800]	valid_0's binary_logloss: 0.00294515	valid_1's binary_logloss: 0.0031473
+[900]	valid_0's binary_logloss: 0.00290872	valid_1's binary_logloss: 0.00313557
+[1000]	valid_0's binary_logloss: 0.00287944	valid_1's binary_logloss: 0.00312743
+Did not meet early stopping. Best iteration is:
+[1000]	valid_0's binary_logloss: 0.00287944	valid_1's binary_logloss: 0.00312743
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00333635	valid_1's binary_logloss: 0.00329782
+[200]	valid_0's binary_logloss: 0.00323907	valid_1's binary_logloss: 0.00324984
+[300]	valid_0's binary_logloss: 0.00317534	valid_1's binary_logloss: 0.00321885
+[400]	valid_0's binary_logloss: 0.00312135	valid_1's binary_logloss: 0.00320362
+[500]	valid_0's binary_logloss: 0.00307178	valid_1's binary_logloss: 0.00317931
+[600]	valid_0's binary_logloss: 0.00302979	valid_1's binary_logloss: 0.00316297
+[700]	valid_0's binary_logloss: 0.00298861	valid_1's binary_logloss: 0.00314689
+[800]	valid_0's binary_logloss: 0.00295278	valid_1's binary_logloss: 0.00314447
+[900]	valid_0's binary_logloss: 0.00292009	valid_1's binary_logloss: 0.00312908
+[1000]	valid_0's binary_logloss: 0.00289079	valid_1's binary_logloss: 0.00311889
+Did not meet early stopping. Best iteration is:
+[1000]	valid_0's binary_logloss: 0.00289079	valid_1's binary_logloss: 0.00311889
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00333032	valid_1's binary_logloss: 0.0033048
+[200]	valid_0's binary_logloss: 0.0032313	valid_1's binary_logloss: 0.00324591
+[300]	valid_0's binary_logloss: 0.0031654	valid_1's binary_logloss: 0.00322231
+[400]	valid_0's binary_logloss: 0.00311363	valid_1's binary_logloss: 0.00320182
+[500]	valid_0's binary_logloss: 0.00306214	valid_1's binary_logloss: 0.00318701
+[600]	valid_0's binary_logloss: 0.00301877	valid_1's binary_logloss: 0.00317243
+[700]	valid_0's binary_logloss: 0.00297899	valid_1's binary_logloss: 0.00315369
+[800]	valid_0's binary_logloss: 0.00294908	valid_1's binary_logloss: 0.00315113
+[900]	valid_0's binary_logloss: 0.00291327	valid_1's binary_logloss: 0.00314023
+[1000]	valid_0's binary_logloss: 0.00288275	valid_1's binary_logloss: 0.00313517
+Did not meet early stopping. Best iteration is:
+[1000]	valid_0's binary_logloss: 0.00288275	valid_1's binary_logloss: 0.00313517
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00334388	valid_1's binary_logloss: 0.0033097
+[200]	valid_0's binary_logloss: 0.00323353	valid_1's binary_logloss: 0.0032517
+[300]	valid_0's binary_logloss: 0.00316015	valid_1's binary_logloss: 0.00322232
+[400]	valid_0's binary_logloss: 0.00309592	valid_1's binary_logloss: 0.00319906
+[500]	valid_0's binary_logloss: 0.00304595	valid_1's binary_logloss: 0.00318393
+[600]	valid_0's binary_logloss: 0.00299956	valid_1's binary_logloss: 0.00317746
+[700]	valid_0's binary_logloss: 0.00295387	valid_1's binary_logloss: 0.00316525
+[800]	valid_0's binary_logloss: 0.00291521	valid_1's binary_logloss: 0.0031625
+[900]	valid_0's binary_logloss: 0.00287969	valid_1's binary_logloss: 0.00314714
+[1000]	valid_0's binary_logloss: 0.00284695	valid_1's binary_logloss: 0.00314134
+Did not meet early stopping. Best iteration is:
+[1000]	valid_0's binary_logloss: 0.00284695	valid_1's binary_logloss: 0.00314134
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00335089	valid_1's binary_logloss: 0.0033043
+[200]	valid_0's binary_logloss: 0.00325846	valid_1's binary_logloss: 0.00324266
+[300]	valid_0's binary_logloss: 0.00320028	valid_1's binary_logloss: 0.00321863
+[400]	valid_0's binary_logloss: 0.00314658	valid_1's binary_logloss: 0.00318896
+[500]	valid_0's binary_logloss: 0.00310007	valid_1's binary_logloss: 0.00317327
+[600]	valid_0's binary_logloss: 0.00305581	valid_1's binary_logloss: 0.0031605
+[700]	valid_0's binary_logloss: 0.00301796	valid_1's binary_logloss: 0.00314822
+[800]	valid_0's binary_logloss: 0.00298177	valid_1's binary_logloss: 0.00313721
+[900]	valid_0's binary_logloss: 0.00295337	valid_1's binary_logloss: 0.00312916
+[1000]	valid_0's binary_logloss: 0.00292253	valid_1's binary_logloss: 0.00312108
+Did not meet early stopping. Best iteration is:
+[1000]	valid_0's binary_logloss: 0.00292253	valid_1's binary_logloss: 0.00312108
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.0033502	valid_1's binary_logloss: 0.00329965
+[200]	valid_0's binary_logloss: 0.0032591	valid_1's binary_logloss: 0.00324193
+[300]	valid_0's binary_logloss: 0.00320149	valid_1's binary_logloss: 0.00321485
+[400]	valid_0's binary_logloss: 0.00314905	valid_1's binary_logloss: 0.00319496
+[500]	valid_0's binary_logloss: 0.00310158	valid_1's binary_logloss: 0.00317728
+[600]	valid_0's binary_logloss: 0.00305444	valid_1's binary_logloss: 0.00316318
+[700]	valid_0's binary_logloss: 0.00301644	valid_1's binary_logloss: 0.0031456
+[800]	valid_0's binary_logloss: 0.0029802	valid_1's binary_logloss: 0.0031369
+[900]	valid_0's binary_logloss: 0.00295258	valid_1's binary_logloss: 0.00312557
+[1000]	valid_0's binary_logloss: 0.00292182	valid_1's binary_logloss: 0.003115
+Did not meet early stopping. Best iteration is:
+[1000]	valid_0's binary_logloss: 0.00292182	valid_1's binary_logloss: 0.003115
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00334762	valid_1's binary_logloss: 0.0032939
+[200]	valid_0's binary_logloss: 0.00325755	valid_1's binary_logloss: 0.00324151
+[300]	valid_0's binary_logloss: 0.00320001	valid_1's binary_logloss: 0.00321971
+[400]	valid_0's binary_logloss: 0.00314525	valid_1's binary_logloss: 0.00319178
+[500]	valid_0's binary_logloss: 0.00309844	valid_1's binary_logloss: 0.00317815
+[600]	valid_0's binary_logloss: 0.00305392	valid_1's binary_logloss: 0.00316538
+[700]	valid_0's binary_logloss: 0.00301507	valid_1's binary_logloss: 0.00315204
+[800]	valid_0's binary_logloss: 0.00297897	valid_1's binary_logloss: 0.00314152
+[900]	valid_0's binary_logloss: 0.00294915	valid_1's binary_logloss: 0.00313543
+[1000]	valid_0's binary_logloss: 0.00291661	valid_1's binary_logloss: 0.00312336
+Did not meet early stopping. Best iteration is:
+[1000]	valid_0's binary_logloss: 0.00291661	valid_1's binary_logloss: 0.00312336
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00335309	valid_1's binary_logloss: 0.00329104
+[200]	valid_0's binary_logloss: 0.00325922	valid_1's binary_logloss: 0.00323707
+[300]	valid_0's binary_logloss: 0.00320104	valid_1's binary_logloss: 0.00321234
+[400]	valid_0's binary_logloss: 0.0031486	valid_1's binary_logloss: 0.00319191
+[500]	valid_0's binary_logloss: 0.00310248	valid_1's binary_logloss: 0.0031781
+[600]	valid_0's binary_logloss: 0.00305781	valid_1's binary_logloss: 0.00316398
+[700]	valid_0's binary_logloss: 0.00301902	valid_1's binary_logloss: 0.00314681
+[800]	valid_0's binary_logloss: 0.00298399	valid_1's binary_logloss: 0.00313471
+[900]	valid_0's binary_logloss: 0.0029535	valid_1's binary_logloss: 0.00312425
+[1000]	valid_0's binary_logloss: 0.00292274	valid_1's binary_logloss: 0.00311567
+Did not meet early stopping. Best iteration is:
+[1000]	valid_0's binary_logloss: 0.00292274	valid_1's binary_logloss: 0.00311567
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00335309	valid_1's binary_logloss: 0.00329104
+[200]	valid_0's binary_logloss: 0.00325922	valid_1's binary_logloss: 0.00323707
+[300]	valid_0's binary_logloss: 0.00320104	valid_1's binary_logloss: 0.00321234
+[400]	valid_0's binary_logloss: 0.0031486	valid_1's binary_logloss: 0.00319191
+[500]	valid_0's binary_logloss: 0.00310248	valid_1's binary_logloss: 0.0031781
+[600]	valid_0's binary_logloss: 0.00305781	valid_1's binary_logloss: 0.00316398
+[700]	valid_0's binary_logloss: 0.00301902	valid_1's binary_logloss: 0.00314681
+[800]	valid_0's binary_logloss: 0.00298399	valid_1's binary_logloss: 0.00313471
+[900]	valid_0's binary_logloss: 0.0029535	valid_1's binary_logloss: 0.00312425
+[1000]	valid_0's binary_logloss: 0.00292274	valid_1's binary_logloss: 0.00311567
+Did not meet early stopping. Best iteration is:
+[1000]	valid_0's binary_logloss: 0.00292274	valid_1's binary_logloss: 0.00311567
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.0033502	valid_1's binary_logloss: 0.00329965
+[200]	valid_0's binary_logloss: 0.0032591	valid_1's binary_logloss: 0.00324193
+[300]	valid_0's binary_logloss: 0.00320149	valid_1's binary_logloss: 0.00321485
+[400]	valid_0's binary_logloss: 0.00314905	valid_1's binary_logloss: 0.00319496
+[500]	valid_0's binary_logloss: 0.00310158	valid_1's binary_logloss: 0.00317728
+[600]	valid_0's binary_logloss: 0.00305444	valid_1's binary_logloss: 0.00316318
+[700]	valid_0's binary_logloss: 0.00301644	valid_1's binary_logloss: 0.0031456
+[800]	valid_0's binary_logloss: 0.0029802	valid_1's binary_logloss: 0.0031369
+[900]	valid_0's binary_logloss: 0.00295258	valid_1's binary_logloss: 0.00312557
+[1000]	valid_0's binary_logloss: 0.00292182	valid_1's binary_logloss: 0.003115
+Did not meet early stopping. Best iteration is:
+[1000]	valid_0's binary_logloss: 0.00292182	valid_1's binary_logloss: 0.003115
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.0033502	valid_1's binary_logloss: 0.00329965
+[200]	valid_0's binary_logloss: 0.0032591	valid_1's binary_logloss: 0.00324193
+[300]	valid_0's binary_logloss: 0.00320149	valid_1's binary_logloss: 0.00321485
+[400]	valid_0's binary_logloss: 0.00314905	valid_1's binary_logloss: 0.00319496
+[500]	valid_0's binary_logloss: 0.00310158	valid_1's binary_logloss: 0.00317728
+[600]	valid_0's binary_logloss: 0.00305444	valid_1's binary_logloss: 0.00316318
+[700]	valid_0's binary_logloss: 0.00301644	valid_1's binary_logloss: 0.0031456
+[800]	valid_0's binary_logloss: 0.0029802	valid_1's binary_logloss: 0.0031369
+[900]	valid_0's binary_logloss: 0.00295258	valid_1's binary_logloss: 0.00312557
+[1000]	valid_0's binary_logloss: 0.00292182	valid_1's binary_logloss: 0.003115
+Did not meet early stopping. Best iteration is:
+[1000]	valid_0's binary_logloss: 0.00292182	valid_1's binary_logloss: 0.003115
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00335022	valid_1's binary_logloss: 0.00329975
+[200]	valid_0's binary_logloss: 0.00326126	valid_1's binary_logloss: 0.00324021
+[300]	valid_0's binary_logloss: 0.00320096	valid_1's binary_logloss: 0.00321519
+[400]	valid_0's binary_logloss: 0.00314811	valid_1's binary_logloss: 0.00318874
+[500]	valid_0's binary_logloss: 0.00310532	valid_1's binary_logloss: 0.00317429
+[600]	valid_0's binary_logloss: 0.00305977	valid_1's binary_logloss: 0.0031612
+[700]	valid_0's binary_logloss: 0.00302045	valid_1's binary_logloss: 0.00314091
+[800]	valid_0's binary_logloss: 0.00298224	valid_1's binary_logloss: 0.00312898
+[900]	valid_0's binary_logloss: 0.00295328	valid_1's binary_logloss: 0.00312235
+[1000]	valid_0's binary_logloss: 0.00292324	valid_1's binary_logloss: 0.00311275
+Did not meet early stopping. Best iteration is:
+[1000]	valid_0's binary_logloss: 0.00292324	valid_1's binary_logloss: 0.00311275
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.0033502	valid_1's binary_logloss: 0.00329965
+[200]	valid_0's binary_logloss: 0.0032591	valid_1's binary_logloss: 0.00324193
+[300]	valid_0's binary_logloss: 0.00320149	valid_1's binary_logloss: 0.00321485
+[400]	valid_0's binary_logloss: 0.00314905	valid_1's binary_logloss: 0.00319496
+[500]	valid_0's binary_logloss: 0.00310158	valid_1's binary_logloss: 0.00317728
+[600]	valid_0's binary_logloss: 0.00305444	valid_1's binary_logloss: 0.00316318
+[700]	valid_0's binary_logloss: 0.00301644	valid_1's binary_logloss: 0.0031456
+[800]	valid_0's binary_logloss: 0.0029802	valid_1's binary_logloss: 0.0031369
+[900]	valid_0's binary_logloss: 0.00295258	valid_1's binary_logloss: 0.00312557
+[1000]	valid_0's binary_logloss: 0.00292182	valid_1's binary_logloss: 0.003115
+Did not meet early stopping. Best iteration is:
+[1000]	valid_0's binary_logloss: 0.00292182	valid_1's binary_logloss: 0.003115
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00334985	valid_1's binary_logloss: 0.00329925
+[200]	valid_0's binary_logloss: 0.00325875	valid_1's binary_logloss: 0.00324235
+[300]	valid_0's binary_logloss: 0.00319943	valid_1's binary_logloss: 0.00321616
+[400]	valid_0's binary_logloss: 0.00314964	valid_1's binary_logloss: 0.00319404
+[500]	valid_0's binary_logloss: 0.00310214	valid_1's binary_logloss: 0.00317664
+[600]	valid_0's binary_logloss: 0.00305645	valid_1's binary_logloss: 0.003165
+[700]	valid_0's binary_logloss: 0.00301851	valid_1's binary_logloss: 0.00314563
+[800]	valid_0's binary_logloss: 0.00298172	valid_1's binary_logloss: 0.0031354
+[900]	valid_0's binary_logloss: 0.00295138	valid_1's binary_logloss: 0.00312538
+[1000]	valid_0's binary_logloss: 0.00292215	valid_1's binary_logloss: 0.00311467
+Did not meet early stopping. Best iteration is:
+[1000]	valid_0's binary_logloss: 0.00292215	valid_1's binary_logloss: 0.00311467
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00334985	valid_1's binary_logloss: 0.00329925
+[200]	valid_0's binary_logloss: 0.00325875	valid_1's binary_logloss: 0.00324235
+[300]	valid_0's binary_logloss: 0.00319943	valid_1's binary_logloss: 0.00321616
+[400]	valid_0's binary_logloss: 0.00314934	valid_1's binary_logloss: 0.00319438
+[500]	valid_0's binary_logloss: 0.00310152	valid_1's binary_logloss: 0.0031821
+[600]	valid_0's binary_logloss: 0.0030574	valid_1's binary_logloss: 0.00316437
+[700]	valid_0's binary_logloss: 0.00302024	valid_1's binary_logloss: 0.00314946
+[800]	valid_0's binary_logloss: 0.00298386	valid_1's binary_logloss: 0.00313994
+[900]	valid_0's binary_logloss: 0.0029532	valid_1's binary_logloss: 0.0031296
+[1000]	valid_0's binary_logloss: 0.002923	valid_1's binary_logloss: 0.00311883
+Did not meet early stopping. Best iteration is:
+[1000]	valid_0's binary_logloss: 0.002923	valid_1's binary_logloss: 0.00311883
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00335399	valid_1's binary_logloss: 0.00329076
+[200]	valid_0's binary_logloss: 0.00326558	valid_1's binary_logloss: 0.00324469
+[300]	valid_0's binary_logloss: 0.00320657	valid_1's binary_logloss: 0.00321731
+[400]	valid_0's binary_logloss: 0.00315605	valid_1's binary_logloss: 0.00319537
+[500]	valid_0's binary_logloss: 0.00311104	valid_1's binary_logloss: 0.00318195
+[600]	valid_0's binary_logloss: 0.00306839	valid_1's binary_logloss: 0.00316554
+[700]	valid_0's binary_logloss: 0.00303305	valid_1's binary_logloss: 0.00314805
+[800]	valid_0's binary_logloss: 0.00300043	valid_1's binary_logloss: 0.0031373
+[900]	valid_0's binary_logloss: 0.00297119	valid_1's binary_logloss: 0.00312836
+[1000]	valid_0's binary_logloss: 0.00294478	valid_1's binary_logloss: 0.00312016
+Did not meet early stopping. Best iteration is:
+[1000]	valid_0's binary_logloss: 0.00294478	valid_1's binary_logloss: 0.00312016
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.0033467	valid_1's binary_logloss: 0.00330094
+[200]	valid_0's binary_logloss: 0.00325611	valid_1's binary_logloss: 0.00324508
+[300]	valid_0's binary_logloss: 0.00319924	valid_1's binary_logloss: 0.00321629
+[400]	valid_0's binary_logloss: 0.00314837	valid_1's binary_logloss: 0.00319533
+[500]	valid_0's binary_logloss: 0.00310458	valid_1's binary_logloss: 0.00318353
+[600]	valid_0's binary_logloss: 0.00305697	valid_1's binary_logloss: 0.00316703
+[700]	valid_0's binary_logloss: 0.00301795	valid_1's binary_logloss: 0.00314944
+[800]	valid_0's binary_logloss: 0.00298417	valid_1's binary_logloss: 0.00313679
+[900]	valid_0's binary_logloss: 0.0029535	valid_1's binary_logloss: 0.00312538
+[1000]	valid_0's binary_logloss: 0.00292499	valid_1's binary_logloss: 0.00311787
+Did not meet early stopping. Best iteration is:
+[1000]	valid_0's binary_logloss: 0.00292499	valid_1's binary_logloss: 0.00311787
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00335022	valid_1's binary_logloss: 0.00329974
+[200]	valid_0's binary_logloss: 0.00326126	valid_1's binary_logloss: 0.00324021
+[300]	valid_0's binary_logloss: 0.00320054	valid_1's binary_logloss: 0.00320964
+[400]	valid_0's binary_logloss: 0.00314899	valid_1's binary_logloss: 0.00318782
+[500]	valid_0's binary_logloss: 0.00310192	valid_1's binary_logloss: 0.00317362
+[600]	valid_0's binary_logloss: 0.00305341	valid_1's binary_logloss: 0.00315834
+[700]	valid_0's binary_logloss: 0.00301742	valid_1's binary_logloss: 0.00314408
+[800]	valid_0's binary_logloss: 0.0029814	valid_1's binary_logloss: 0.00313342
+[900]	valid_0's binary_logloss: 0.00295011	valid_1's binary_logloss: 0.003125
+[1000]	valid_0's binary_logloss: 0.00292028	valid_1's binary_logloss: 0.00311796
+Did not meet early stopping. Best iteration is:
+[1000]	valid_0's binary_logloss: 0.00292028	valid_1's binary_logloss: 0.00311796
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00336249	valid_1's binary_logloss: 0.00329838
+[200]	valid_0's binary_logloss: 0.00328237	valid_1's binary_logloss: 0.00325636
+[300]	valid_0's binary_logloss: 0.00322695	valid_1's binary_logloss: 0.00322785
+[400]	valid_0's binary_logloss: 0.00318006	valid_1's binary_logloss: 0.00321247
+[500]	valid_0's binary_logloss: 0.00314029	valid_1's binary_logloss: 0.00319517
+[600]	valid_0's binary_logloss: 0.00310215	valid_1's binary_logloss: 0.00317825
+[700]	valid_0's binary_logloss: 0.00306716	valid_1's binary_logloss: 0.00316414
+[800]	valid_0's binary_logloss: 0.0030359	valid_1's binary_logloss: 0.00315072
+[900]	valid_0's binary_logloss: 0.00300625	valid_1's binary_logloss: 0.00313996
+[1000]	valid_0's binary_logloss: 0.00297942	valid_1's binary_logloss: 0.00313024
+Did not meet early stopping. Best iteration is:
+[1000]	valid_0's binary_logloss: 0.00297942	valid_1's binary_logloss: 0.00313024
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00335462	valid_1's binary_logloss: 0.00330359
+[200]	valid_0's binary_logloss: 0.00326344	valid_1's binary_logloss: 0.00324381
+[300]	valid_0's binary_logloss: 0.00320348	valid_1's binary_logloss: 0.00321564
+[400]	valid_0's binary_logloss: 0.00314993	valid_1's binary_logloss: 0.00319272
+[500]	valid_0's binary_logloss: 0.00310423	valid_1's binary_logloss: 0.00317982
+[600]	valid_0's binary_logloss: 0.0030647	valid_1's binary_logloss: 0.00316168
+[700]	valid_0's binary_logloss: 0.00303047	valid_1's binary_logloss: 0.00314628
+[800]	valid_0's binary_logloss: 0.00299359	valid_1's binary_logloss: 0.00313477
+[900]	valid_0's binary_logloss: 0.00296521	valid_1's binary_logloss: 0.00312277
+[1000]	valid_0's binary_logloss: 0.00293607	valid_1's binary_logloss: 0.00311251
+Did not meet early stopping. Best iteration is:
+[1000]	valid_0's binary_logloss: 0.00293607	valid_1's binary_logloss: 0.00311251
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00336397	valid_1's binary_logloss: 0.00329973
+[200]	valid_0's binary_logloss: 0.00328513	valid_1's binary_logloss: 0.00325772
+[300]	valid_0's binary_logloss: 0.00323108	valid_1's binary_logloss: 0.00323122
+[400]	valid_0's binary_logloss: 0.00318989	valid_1's binary_logloss: 0.00321395
+[500]	valid_0's binary_logloss: 0.00315083	valid_1's binary_logloss: 0.00319485
+[600]	valid_0's binary_logloss: 0.0031173	valid_1's binary_logloss: 0.00318029
+[700]	valid_0's binary_logloss: 0.00308712	valid_1's binary_logloss: 0.00317088
+[800]	valid_0's binary_logloss: 0.00305971	valid_1's binary_logloss: 0.00315743
+[900]	valid_0's binary_logloss: 0.00303726	valid_1's binary_logloss: 0.00315049
+[1000]	valid_0's binary_logloss: 0.00301604	valid_1's binary_logloss: 0.00314311
+Did not meet early stopping. Best iteration is:
+[1000]	valid_0's binary_logloss: 0.00301604	valid_1's binary_logloss: 0.00314311
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00335104	valid_1's binary_logloss: 0.00329431
+[200]	valid_0's binary_logloss: 0.00326169	valid_1's binary_logloss: 0.00324279
+[300]	valid_0's binary_logloss: 0.00320474	valid_1's binary_logloss: 0.00321228
+[400]	valid_0's binary_logloss: 0.00315142	valid_1's binary_logloss: 0.00319159
+[500]	valid_0's binary_logloss: 0.00310592	valid_1's binary_logloss: 0.00317429
+[600]	valid_0's binary_logloss: 0.0030582	valid_1's binary_logloss: 0.0031598
+[700]	valid_0's binary_logloss: 0.0030195	valid_1's binary_logloss: 0.00314838
+[800]	valid_0's binary_logloss: 0.0029836	valid_1's binary_logloss: 0.00313714
+[900]	valid_0's binary_logloss: 0.00295455	valid_1's binary_logloss: 0.00312622
+[1000]	valid_0's binary_logloss: 0.00292552	valid_1's binary_logloss: 0.00311522
+Did not meet early stopping. Best iteration is:
+[1000]	valid_0's binary_logloss: 0.00292552	valid_1's binary_logloss: 0.00311522
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00335527	valid_1's binary_logloss: 0.00330097
+[200]	valid_0's binary_logloss: 0.00325863	valid_1's binary_logloss: 0.00323855
+[300]	valid_0's binary_logloss: 0.00319921	valid_1's binary_logloss: 0.0032111
+[400]	valid_0's binary_logloss: 0.00314807	valid_1's binary_logloss: 0.00319271
+[500]	valid_0's binary_logloss: 0.00310221	valid_1's binary_logloss: 0.00317727
+[600]	valid_0's binary_logloss: 0.0030544	valid_1's binary_logloss: 0.00316491
+[700]	valid_0's binary_logloss: 0.00301535	valid_1's binary_logloss: 0.0031482
+[800]	valid_0's binary_logloss: 0.00298093	valid_1's binary_logloss: 0.00313384
+[900]	valid_0's binary_logloss: 0.00294998	valid_1's binary_logloss: 0.0031241
+[1000]	valid_0's binary_logloss: 0.00292308	valid_1's binary_logloss: 0.00311639
+Did not meet early stopping. Best iteration is:
+[1000]	valid_0's binary_logloss: 0.00292308	valid_1's binary_logloss: 0.00311639
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00335022	valid_1's binary_logloss: 0.00329975
+[200]	valid_0's binary_logloss: 0.00326126	valid_1's binary_logloss: 0.00324021
+[300]	valid_0's binary_logloss: 0.00320096	valid_1's binary_logloss: 0.00321519
+[400]	valid_0's binary_logloss: 0.00314811	valid_1's binary_logloss: 0.00318874
+[500]	valid_0's binary_logloss: 0.00310532	valid_1's binary_logloss: 0.00317429
+[600]	valid_0's binary_logloss: 0.00305996	valid_1's binary_logloss: 0.00316313
+[700]	valid_0's binary_logloss: 0.00301861	valid_1's binary_logloss: 0.00314725
+[800]	valid_0's binary_logloss: 0.00298297	valid_1's binary_logloss: 0.00313616
+[900]	valid_0's binary_logloss: 0.00295181	valid_1's binary_logloss: 0.00312511
+[1000]	valid_0's binary_logloss: 0.0029232	valid_1's binary_logloss: 0.0031174
+Did not meet early stopping. Best iteration is:
+[1000]	valid_0's binary_logloss: 0.0029232	valid_1's binary_logloss: 0.0031174
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00335292	valid_1's binary_logloss: 0.00329749
+[200]	valid_0's binary_logloss: 0.00325767	valid_1's binary_logloss: 0.00323975
+[300]	valid_0's binary_logloss: 0.00319967	valid_1's binary_logloss: 0.00321593
+[400]	valid_0's binary_logloss: 0.00314729	valid_1's binary_logloss: 0.00320014
+[500]	valid_0's binary_logloss: 0.00310325	valid_1's binary_logloss: 0.00318504
+[600]	valid_0's binary_logloss: 0.00305847	valid_1's binary_logloss: 0.00317133
+[700]	valid_0's binary_logloss: 0.00301963	valid_1's binary_logloss: 0.00315334
+[800]	valid_0's binary_logloss: 0.00298205	valid_1's binary_logloss: 0.00313755
+[900]	valid_0's binary_logloss: 0.00295424	valid_1's binary_logloss: 0.00312723
+[1000]	valid_0's binary_logloss: 0.00292312	valid_1's binary_logloss: 0.00311442
+Did not meet early stopping. Best iteration is:
+[1000]	valid_0's binary_logloss: 0.00292312	valid_1's binary_logloss: 0.00311442
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00335313	valid_1's binary_logloss: 0.00330022
+[200]	valid_0's binary_logloss: 0.00326141	valid_1's binary_logloss: 0.0032403
+[300]	valid_0's binary_logloss: 0.00320242	valid_1's binary_logloss: 0.00321307
+[400]	valid_0's binary_logloss: 0.0031512	valid_1's binary_logloss: 0.00319631
+[500]	valid_0's binary_logloss: 0.00310353	valid_1's binary_logloss: 0.0031813
+[600]	valid_0's binary_logloss: 0.0030569	valid_1's binary_logloss: 0.00316571
+[700]	valid_0's binary_logloss: 0.0030171	valid_1's binary_logloss: 0.00314216
+[800]	valid_0's binary_logloss: 0.00298483	valid_1's binary_logloss: 0.00313262
+[900]	valid_0's binary_logloss: 0.00295441	valid_1's binary_logloss: 0.00312402
+[1000]	valid_0's binary_logloss: 0.00292596	valid_1's binary_logloss: 0.00311875
+Did not meet early stopping. Best iteration is:
+[1000]	valid_0's binary_logloss: 0.00292596	valid_1's binary_logloss: 0.00311875
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00335148	valid_1's binary_logloss: 0.00329733
+[200]	valid_0's binary_logloss: 0.00325639	valid_1's binary_logloss: 0.00324289
+[300]	valid_0's binary_logloss: 0.00319871	valid_1's binary_logloss: 0.0032118
+[400]	valid_0's binary_logloss: 0.00314965	valid_1's binary_logloss: 0.00319177
+[500]	valid_0's binary_logloss: 0.00310085	valid_1's binary_logloss: 0.00317379
+[600]	valid_0's binary_logloss: 0.00305333	valid_1's binary_logloss: 0.00315892
+[700]	valid_0's binary_logloss: 0.00301558	valid_1's binary_logloss: 0.00314607
+[800]	valid_0's binary_logloss: 0.00298112	valid_1's binary_logloss: 0.00313437
+[900]	valid_0's binary_logloss: 0.00295152	valid_1's binary_logloss: 0.00312196
+[1000]	valid_0's binary_logloss: 0.00292122	valid_1's binary_logloss: 0.00311163
+Did not meet early stopping. Best iteration is:
+[1000]	valid_0's binary_logloss: 0.00292122	valid_1's binary_logloss: 0.00311163
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.0033529	valid_1's binary_logloss: 0.00329748
+[200]	valid_0's binary_logloss: 0.00325765	valid_1's binary_logloss: 0.00323974
+[300]	valid_0's binary_logloss: 0.00319898	valid_1's binary_logloss: 0.00321344
+[400]	valid_0's binary_logloss: 0.00314859	valid_1's binary_logloss: 0.00319453
+[500]	valid_0's binary_logloss: 0.00310318	valid_1's binary_logloss: 0.0031764
+[600]	valid_0's binary_logloss: 0.00305497	valid_1's binary_logloss: 0.00316361
+[700]	valid_0's binary_logloss: 0.00301701	valid_1's binary_logloss: 0.00314552
+[800]	valid_0's binary_logloss: 0.00298132	valid_1's binary_logloss: 0.00313484
+[900]	valid_0's binary_logloss: 0.00295205	valid_1's binary_logloss: 0.00312438
+[1000]	valid_0's binary_logloss: 0.00292181	valid_1's binary_logloss: 0.00311907
+Did not meet early stopping. Best iteration is:
+[1000]	valid_0's binary_logloss: 0.00292181	valid_1's binary_logloss: 0.00311907
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00335102	valid_1's binary_logloss: 0.00329546
+[200]	valid_0's binary_logloss: 0.00325906	valid_1's binary_logloss: 0.00324291
+[300]	valid_0's binary_logloss: 0.00319966	valid_1's binary_logloss: 0.00321448
+[400]	valid_0's binary_logloss: 0.0031492	valid_1's binary_logloss: 0.00319278
+[500]	valid_0's binary_logloss: 0.00310577	valid_1's binary_logloss: 0.00317703
+[600]	valid_0's binary_logloss: 0.0030577	valid_1's binary_logloss: 0.00315905
+[700]	valid_0's binary_logloss: 0.00301827	valid_1's binary_logloss: 0.00314369
+[800]	valid_0's binary_logloss: 0.00298698	valid_1's binary_logloss: 0.00313444
+[900]	valid_0's binary_logloss: 0.00295631	valid_1's binary_logloss: 0.00312516
+[1000]	valid_0's binary_logloss: 0.0029245	valid_1's binary_logloss: 0.00311224
+Did not meet early stopping. Best iteration is:
+[1000]	valid_0's binary_logloss: 0.0029245	valid_1's binary_logloss: 0.00311224
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00335102	valid_1's binary_logloss: 0.00329549
+[200]	valid_0's binary_logloss: 0.00326062	valid_1's binary_logloss: 0.00323917
+[300]	valid_0's binary_logloss: 0.0032012	valid_1's binary_logloss: 0.00321066
+[400]	valid_0's binary_logloss: 0.0031521	valid_1's binary_logloss: 0.00319113
+[500]	valid_0's binary_logloss: 0.00310655	valid_1's binary_logloss: 0.00317219
+[600]	valid_0's binary_logloss: 0.00305929	valid_1's binary_logloss: 0.00315701
+[700]	valid_0's binary_logloss: 0.00302072	valid_1's binary_logloss: 0.0031407
+[800]	valid_0's binary_logloss: 0.00298474	valid_1's binary_logloss: 0.00312959
+[900]	valid_0's binary_logloss: 0.00295577	valid_1's binary_logloss: 0.00312105
+[1000]	valid_0's binary_logloss: 0.00292716	valid_1's binary_logloss: 0.00310489
+Did not meet early stopping. Best iteration is:
+[1000]	valid_0's binary_logloss: 0.00292716	valid_1's binary_logloss: 0.00310489
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00334854	valid_1's binary_logloss: 0.00328298
+[200]	valid_0's binary_logloss: 0.00326001	valid_1's binary_logloss: 0.00323922
+[300]	valid_0's binary_logloss: 0.00320153	valid_1's binary_logloss: 0.00321361
+[400]	valid_0's binary_logloss: 0.00315079	valid_1's binary_logloss: 0.0031882
+[500]	valid_0's binary_logloss: 0.003101	valid_1's binary_logloss: 0.00317299
+[600]	valid_0's binary_logloss: 0.00305682	valid_1's binary_logloss: 0.00315826
+[700]	valid_0's binary_logloss: 0.0030204	valid_1's binary_logloss: 0.00314416
+[800]	valid_0's binary_logloss: 0.00298147	valid_1's binary_logloss: 0.00313269
+[900]	valid_0's binary_logloss: 0.00295128	valid_1's binary_logloss: 0.00312448
+[1000]	valid_0's binary_logloss: 0.00291981	valid_1's binary_logloss: 0.003115
+Did not meet early stopping. Best iteration is:
+[1000]	valid_0's binary_logloss: 0.00291981	valid_1's binary_logloss: 0.003115
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00334985	valid_1's binary_logloss: 0.00329924
+[200]	valid_0's binary_logloss: 0.00325938	valid_1's binary_logloss: 0.00324366
+[300]	valid_0's binary_logloss: 0.00320191	valid_1's binary_logloss: 0.00322172
+[400]	valid_0's binary_logloss: 0.00314895	valid_1's binary_logloss: 0.00319593
+[500]	valid_0's binary_logloss: 0.00310447	valid_1's binary_logloss: 0.00317964
+[600]	valid_0's binary_logloss: 0.00305738	valid_1's binary_logloss: 0.00316535
+[700]	valid_0's binary_logloss: 0.00301853	valid_1's binary_logloss: 0.00315051
+[800]	valid_0's binary_logloss: 0.0029849	valid_1's binary_logloss: 0.0031396
+[900]	valid_0's binary_logloss: 0.002958	valid_1's binary_logloss: 0.00313154
+[1000]	valid_0's binary_logloss: 0.00292591	valid_1's binary_logloss: 0.0031201
+Did not meet early stopping. Best iteration is:
+[1000]	valid_0's binary_logloss: 0.00292591	valid_1's binary_logloss: 0.0031201
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00334855	valid_1's binary_logloss: 0.0032962
+[200]	valid_0's binary_logloss: 0.00325874	valid_1's binary_logloss: 0.00324137
+[300]	valid_0's binary_logloss: 0.00319847	valid_1's binary_logloss: 0.00320767
+[400]	valid_0's binary_logloss: 0.00314519	valid_1's binary_logloss: 0.0031895
+[500]	valid_0's binary_logloss: 0.00309894	valid_1's binary_logloss: 0.00317264
+[600]	valid_0's binary_logloss: 0.00305231	valid_1's binary_logloss: 0.00315818
+[700]	valid_0's binary_logloss: 0.0030163	valid_1's binary_logloss: 0.00314128
+[800]	valid_0's binary_logloss: 0.00297718	valid_1's binary_logloss: 0.00312422
+[900]	valid_0's binary_logloss: 0.00294833	valid_1's binary_logloss: 0.00311358
+[1000]	valid_0's binary_logloss: 0.00291798	valid_1's binary_logloss: 0.00310592
+Did not meet early stopping. Best iteration is:
+[1000]	valid_0's binary_logloss: 0.00291798	valid_1's binary_logloss: 0.00310592
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00335102	valid_1's binary_logloss: 0.00329549
+[200]	valid_0's binary_logloss: 0.00326062	valid_1's binary_logloss: 0.00323917
+[300]	valid_0's binary_logloss: 0.0032012	valid_1's binary_logloss: 0.00321066
+[400]	valid_0's binary_logloss: 0.0031521	valid_1's binary_logloss: 0.00319113
+[500]	valid_0's binary_logloss: 0.00310655	valid_1's binary_logloss: 0.00317219
+[600]	valid_0's binary_logloss: 0.00305929	valid_1's binary_logloss: 0.00315701
+[700]	valid_0's binary_logloss: 0.00302072	valid_1's binary_logloss: 0.0031407
+[800]	valid_0's binary_logloss: 0.00298474	valid_1's binary_logloss: 0.00312959
+[900]	valid_0's binary_logloss: 0.00295577	valid_1's binary_logloss: 0.00312105
+[1000]	valid_0's binary_logloss: 0.00292716	valid_1's binary_logloss: 0.00310489
+Did not meet early stopping. Best iteration is:
+[1000]	valid_0's binary_logloss: 0.00292716	valid_1's binary_logloss: 0.00310489
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00335102	valid_1's binary_logloss: 0.00329549
+[200]	valid_0's binary_logloss: 0.00325893	valid_1's binary_logloss: 0.00323978
+[300]	valid_0's binary_logloss: 0.00320123	valid_1's binary_logloss: 0.00321289
+[400]	valid_0's binary_logloss: 0.00314734	valid_1's binary_logloss: 0.00319229
+[500]	valid_0's binary_logloss: 0.00309818	valid_1's binary_logloss: 0.00317428
+[600]	valid_0's binary_logloss: 0.00305236	valid_1's binary_logloss: 0.00315902
+[700]	valid_0's binary_logloss: 0.0030147	valid_1's binary_logloss: 0.00314271
+[800]	valid_0's binary_logloss: 0.00297943	valid_1's binary_logloss: 0.00312966
+[900]	valid_0's binary_logloss: 0.00295064	valid_1's binary_logloss: 0.00312309
+[1000]	valid_0's binary_logloss: 0.002923	valid_1's binary_logloss: 0.00311747
+Did not meet early stopping. Best iteration is:
+[1000]	valid_0's binary_logloss: 0.002923	valid_1's binary_logloss: 0.00311747
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00335102	valid_1's binary_logloss: 0.00329549
+[200]	valid_0's binary_logloss: 0.00326062	valid_1's binary_logloss: 0.00323917
+[300]	valid_0's binary_logloss: 0.0032012	valid_1's binary_logloss: 0.00321066
+[400]	valid_0's binary_logloss: 0.0031521	valid_1's binary_logloss: 0.00319113
+[500]	valid_0's binary_logloss: 0.00310655	valid_1's binary_logloss: 0.00317219
+[600]	valid_0's binary_logloss: 0.00305929	valid_1's binary_logloss: 0.00315701
+[700]	valid_0's binary_logloss: 0.00302072	valid_1's binary_logloss: 0.0031407
+[800]	valid_0's binary_logloss: 0.00298474	valid_1's binary_logloss: 0.00312959
+[900]	valid_0's binary_logloss: 0.00295577	valid_1's binary_logloss: 0.00312105
+[1000]	valid_0's binary_logloss: 0.00292716	valid_1's binary_logloss: 0.00310489
+Did not meet early stopping. Best iteration is:
+[1000]	valid_0's binary_logloss: 0.00292716	valid_1's binary_logloss: 0.00310489
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00335102	valid_1's binary_logloss: 0.00329549
+[200]	valid_0's binary_logloss: 0.00326062	valid_1's binary_logloss: 0.00323917
+[300]	valid_0's binary_logloss: 0.0032012	valid_1's binary_logloss: 0.00321066
+[400]	valid_0's binary_logloss: 0.0031521	valid_1's binary_logloss: 0.00319113
+[500]	valid_0's binary_logloss: 0.00310655	valid_1's binary_logloss: 0.00317219
+[600]	valid_0's binary_logloss: 0.00305929	valid_1's binary_logloss: 0.00315701
+[700]	valid_0's binary_logloss: 0.00301919	valid_1's binary_logloss: 0.00314084
+[800]	valid_0's binary_logloss: 0.00298324	valid_1's binary_logloss: 0.00313274
+[900]	valid_0's binary_logloss: 0.00295319	valid_1's binary_logloss: 0.00312416
+[1000]	valid_0's binary_logloss: 0.00292292	valid_1's binary_logloss: 0.00311518
+Did not meet early stopping. Best iteration is:
+[1000]	valid_0's binary_logloss: 0.00292292	valid_1's binary_logloss: 0.00311518
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00335102	valid_1's binary_logloss: 0.00329549
+[200]	valid_0's binary_logloss: 0.00326062	valid_1's binary_logloss: 0.00323917
+[300]	valid_0's binary_logloss: 0.0032012	valid_1's binary_logloss: 0.00321066
+[400]	valid_0's binary_logloss: 0.0031521	valid_1's binary_logloss: 0.00319113
+[500]	valid_0's binary_logloss: 0.00310655	valid_1's binary_logloss: 0.00317219
+[600]	valid_0's binary_logloss: 0.00305929	valid_1's binary_logloss: 0.00315701
+[700]	valid_0's binary_logloss: 0.00302072	valid_1's binary_logloss: 0.0031407
+[800]	valid_0's binary_logloss: 0.00298474	valid_1's binary_logloss: 0.00312959
+[900]	valid_0's binary_logloss: 0.00295577	valid_1's binary_logloss: 0.00312105
+[1000]	valid_0's binary_logloss: 0.00292716	valid_1's binary_logloss: 0.00310489
+Did not meet early stopping. Best iteration is:
+[1000]	valid_0's binary_logloss: 0.00292716	valid_1's binary_logloss: 0.00310489
+Best parameters:
+{'objective': 'binary', 'metric': 'binary_logloss', 'verbosity': -1, 'boosting_type': 'gbdt', 'sample_pos_weight': 2407.254054054054, 'feature_pre_filter': False, 'lambda_l1': 8.055319917688527e-06, 'lambda_l2': 0.0009895574047312959, 'num_leaves': 3, 'feature_fraction': 0.9799999999999999, 'bagging_fraction': 0.9945753180195067, 'bagging_freq': 7, 'min_child_samples': 10, 'num_iterations': 1000}
+===  Training  ===
+Accuracy: 0.9995931784156741
+Confusion Matrix:
+[[1781366       2]
+ [    723      17]]
+AUPR: 0.08092221462612532
+AUROC: 0.8966141410360967
+=== Testing ===
+Accuracy: 0.999604962213289
+Confusion Matrix:
+[[445350      0]
+ [   176      1]]
+AUPR: 0.012396354534959037
+AUROC: 0.8375212601781497
+===            ===
+Feature importance: [219 143 177 134 210 195 214 147 150 228 183]
+Processing fix_Novateur_TA1_Trial_Train_Submission
+Training set number of positive samples: 269, negative samples: 474460 (ratio: 0.0005666390719758009)
+Testing set number of positive samples: 74, negative samples: 118609 (ratio: 0.0006235096854646411)
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.041228	valid_1's binary_logloss: 0.0430705
+Early stopping, best iteration is:
+[1]	valid_0's binary_logloss: 0.00752716	valid_1's binary_logloss: 0.00822879
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.384223	valid_1's binary_logloss: 0.404683
+Early stopping, best iteration is:
+[2]	valid_0's binary_logloss: 0.00857456	valid_1's binary_logloss: 0.00794792
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.0223053	valid_1's binary_logloss: 0.0429171
+Early stopping, best iteration is:
+[2]	valid_0's binary_logloss: 0.00740714	valid_1's binary_logloss: 0.00810366
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.0389194	valid_1's binary_logloss: 0.0485615
+Early stopping, best iteration is:
+[2]	valid_0's binary_logloss: 0.00832246	valid_1's binary_logloss: 0.00842778
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.48277	valid_1's binary_logloss: 0.472257
+Early stopping, best iteration is:
+[3]	valid_0's binary_logloss: 0.00908367	valid_1's binary_logloss: 0.00987969
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.0329043	valid_1's binary_logloss: 0.0402756
+Early stopping, best iteration is:
+[2]	valid_0's binary_logloss: 0.00782317	valid_1's binary_logloss: 0.0099479
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.0163501	valid_1's binary_logloss: 0.0351166
+Early stopping, best iteration is:
+[2]	valid_0's binary_logloss: 0.0070884	valid_1's binary_logloss: 0.00787487
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.148179	valid_1's binary_logloss: 0.211724
+Early stopping, best iteration is:
+[2]	valid_0's binary_logloss: 0.00944699	valid_1's binary_logloss: 0.0114644
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.034454	valid_1's binary_logloss: 0.144657
+Early stopping, best iteration is:
+[2]	valid_0's binary_logloss: 0.0138741	valid_1's binary_logloss: 0.0187906
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.0500976	valid_1's binary_logloss: 0.0773117
+Early stopping, best iteration is:
+[2]	valid_0's binary_logloss: 0.00707184	valid_1's binary_logloss: 0.00780174
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00723334	valid_1's binary_logloss: 0.00986247
+Early stopping, best iteration is:
+[2]	valid_0's binary_logloss: 0.0058248	valid_1's binary_logloss: 0.00609914
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00880184	valid_1's binary_logloss: 0.0144623
+Early stopping, best iteration is:
+[2]	valid_0's binary_logloss: 0.00691969	valid_1's binary_logloss: 0.00608121
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00506552	valid_1's binary_logloss: 0.00594577
+Early stopping, best iteration is:
+[2]	valid_0's binary_logloss: 0.00484477	valid_1's binary_logloss: 0.00528408
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00506552	valid_1's binary_logloss: 0.00594577
+Early stopping, best iteration is:
+[2]	valid_0's binary_logloss: 0.00484477	valid_1's binary_logloss: 0.00528408
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.0683128	valid_1's binary_logloss: 0.107763
+Early stopping, best iteration is:
+[2]	valid_0's binary_logloss: 0.00998241	valid_1's binary_logloss: 0.0113277
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.0567121	valid_1's binary_logloss: 0.0976883
+Early stopping, best iteration is:
+[2]	valid_0's binary_logloss: 0.0087938	valid_1's binary_logloss: 0.00827215
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.0311659	valid_1's binary_logloss: 0.103856
+Early stopping, best iteration is:
+[2]	valid_0's binary_logloss: 0.0126677	valid_1's binary_logloss: 0.0153941
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.0539974	valid_1's binary_logloss: 0.11747
+Early stopping, best iteration is:
+[2]	valid_0's binary_logloss: 0.0119267	valid_1's binary_logloss: 0.0145235
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.179604	valid_1's binary_logloss: 0.206049
+Early stopping, best iteration is:
+[2]	valid_0's binary_logloss: 0.00866087	valid_1's binary_logloss: 0.00799376
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.0276259	valid_1's binary_logloss: 0.138269
+Early stopping, best iteration is:
+[2]	valid_0's binary_logloss: 0.012586	valid_1's binary_logloss: 0.015542
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.0413177	valid_1's binary_logloss: 0.0843376
+Early stopping, best iteration is:
+[2]	valid_0's binary_logloss: 0.00878795	valid_1's binary_logloss: 0.00827908
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00506552	valid_1's binary_logloss: 0.00594577
+Early stopping, best iteration is:
+[2]	valid_0's binary_logloss: 0.00484477	valid_1's binary_logloss: 0.00528408
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00785676	valid_1's binary_logloss: 0.00925235
+Early stopping, best iteration is:
+[2]	valid_0's binary_logloss: 0.00583199	valid_1's binary_logloss: 0.00608497
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.0541038	valid_1's binary_logloss: 0.079361
+Early stopping, best iteration is:
+[2]	valid_0's binary_logloss: 0.00729336	valid_1's binary_logloss: 0.00801745
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.017838	valid_1's binary_logloss: 0.0408276
+Early stopping, best iteration is:
+[2]	valid_0's binary_logloss: 0.00719896	valid_1's binary_logloss: 0.00786803
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.0495659	valid_1's binary_logloss: 0.0975588
+Early stopping, best iteration is:
+[2]	valid_0's binary_logloss: 0.00983868	valid_1's binary_logloss: 0.0115806
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.0160026	valid_1's binary_logloss: 0.0338923
+Early stopping, best iteration is:
+[2]	valid_0's binary_logloss: 0.00670516	valid_1's binary_logloss: 0.00731166
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.0047019	valid_1's binary_logloss: 0.00522958
+[200]	valid_0's binary_logloss: 0.00457179	valid_1's binary_logloss: 0.00511691
+[300]	valid_0's binary_logloss: 0.00448656	valid_1's binary_logloss: 0.00506817
+[400]	valid_0's binary_logloss: 0.00442569	valid_1's binary_logloss: 0.00502905
+[500]	valid_0's binary_logloss: 0.00437148	valid_1's binary_logloss: 0.00501593
+[600]	valid_0's binary_logloss: 0.00433339	valid_1's binary_logloss: 0.00498127
+[700]	valid_0's binary_logloss: 0.0042934	valid_1's binary_logloss: 0.00496473
+[800]	valid_0's binary_logloss: 0.00425756	valid_1's binary_logloss: 0.00496161
+[900]	valid_0's binary_logloss: 0.00423159	valid_1's binary_logloss: 0.00495399
+[1000]	valid_0's binary_logloss: 0.00419759	valid_1's binary_logloss: 0.00494071
+Did not meet early stopping. Best iteration is:
+[995]	valid_0's binary_logloss: 0.00419477	valid_1's binary_logloss: 0.00494106
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.004704	valid_1's binary_logloss: 0.00523079
+[200]	valid_0's binary_logloss: 0.00457354	valid_1's binary_logloss: 0.00512343
+[300]	valid_0's binary_logloss: 0.00448563	valid_1's binary_logloss: 0.00507632
+[400]	valid_0's binary_logloss: 0.00442466	valid_1's binary_logloss: 0.00504478
+[500]	valid_0's binary_logloss: 0.00437191	valid_1's binary_logloss: 0.00502037
+[600]	valid_0's binary_logloss: 0.004332	valid_1's binary_logloss: 0.00499161
+[700]	valid_0's binary_logloss: 0.00429355	valid_1's binary_logloss: 0.00497887
+[800]	valid_0's binary_logloss: 0.00425828	valid_1's binary_logloss: 0.00496967
+[900]	valid_0's binary_logloss: 0.00423202	valid_1's binary_logloss: 0.00496836
+[1000]	valid_0's binary_logloss: 0.00420115	valid_1's binary_logloss: 0.00495479
+Did not meet early stopping. Best iteration is:
+[991]	valid_0's binary_logloss: 0.00419782	valid_1's binary_logloss: 0.00495101
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00470405	valid_1's binary_logloss: 0.00522119
+[200]	valid_0's binary_logloss: 0.0045725	valid_1's binary_logloss: 0.00511496
+[300]	valid_0's binary_logloss: 0.00448579	valid_1's binary_logloss: 0.00506777
+[400]	valid_0's binary_logloss: 0.00442521	valid_1's binary_logloss: 0.00503301
+[500]	valid_0's binary_logloss: 0.00437114	valid_1's binary_logloss: 0.0050165
+[600]	valid_0's binary_logloss: 0.00433298	valid_1's binary_logloss: 0.00498709
+[700]	valid_0's binary_logloss: 0.00429405	valid_1's binary_logloss: 0.00497884
+[800]	valid_0's binary_logloss: 0.00425938	valid_1's binary_logloss: 0.00497261
+[900]	valid_0's binary_logloss: 0.00423495	valid_1's binary_logloss: 0.00495666
+[1000]	valid_0's binary_logloss: 0.00420003	valid_1's binary_logloss: 0.00494768
+Did not meet early stopping. Best iteration is:
+[995]	valid_0's binary_logloss: 0.00419718	valid_1's binary_logloss: 0.00494705
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00470484	valid_1's binary_logloss: 0.00523039
+[200]	valid_0's binary_logloss: 0.00457504	valid_1's binary_logloss: 0.00511943
+[300]	valid_0's binary_logloss: 0.00449075	valid_1's binary_logloss: 0.00506661
+[400]	valid_0's binary_logloss: 0.00442667	valid_1's binary_logloss: 0.00502844
+[500]	valid_0's binary_logloss: 0.00437352	valid_1's binary_logloss: 0.00501105
+[600]	valid_0's binary_logloss: 0.00433331	valid_1's binary_logloss: 0.00498382
+[700]	valid_0's binary_logloss: 0.00429514	valid_1's binary_logloss: 0.0049705
+[800]	valid_0's binary_logloss: 0.00425904	valid_1's binary_logloss: 0.00495691
+[900]	valid_0's binary_logloss: 0.00423419	valid_1's binary_logloss: 0.00495531
+[1000]	valid_0's binary_logloss: 0.0042016	valid_1's binary_logloss: 0.00494443
+Did not meet early stopping. Best iteration is:
+[991]	valid_0's binary_logloss: 0.00419827	valid_1's binary_logloss: 0.0049437
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00470348	valid_1's binary_logloss: 0.00523002
+[200]	valid_0's binary_logloss: 0.00457262	valid_1's binary_logloss: 0.00511496
+[300]	valid_0's binary_logloss: 0.00448827	valid_1's binary_logloss: 0.00506812
+[400]	valid_0's binary_logloss: 0.00442406	valid_1's binary_logloss: 0.00502834
+[500]	valid_0's binary_logloss: 0.00437247	valid_1's binary_logloss: 0.00501426
+[600]	valid_0's binary_logloss: 0.00433379	valid_1's binary_logloss: 0.00498707
+[700]	valid_0's binary_logloss: 0.00429569	valid_1's binary_logloss: 0.00497511
+[800]	valid_0's binary_logloss: 0.00426057	valid_1's binary_logloss: 0.00496576
+[900]	valid_0's binary_logloss: 0.00423486	valid_1's binary_logloss: 0.00496398
+[1000]	valid_0's binary_logloss: 0.00420274	valid_1's binary_logloss: 0.00495382
+Did not meet early stopping. Best iteration is:
+[991]	valid_0's binary_logloss: 0.00419941	valid_1's binary_logloss: 0.00495031
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00470321	valid_1's binary_logloss: 0.00523114
+[200]	valid_0's binary_logloss: 0.00457426	valid_1's binary_logloss: 0.00511988
+[300]	valid_0's binary_logloss: 0.00448624	valid_1's binary_logloss: 0.00506436
+[400]	valid_0's binary_logloss: 0.00442552	valid_1's binary_logloss: 0.00503461
+[500]	valid_0's binary_logloss: 0.00437307	valid_1's binary_logloss: 0.00501302
+[600]	valid_0's binary_logloss: 0.00433206	valid_1's binary_logloss: 0.00498374
+[700]	valid_0's binary_logloss: 0.00429275	valid_1's binary_logloss: 0.0049697
+[800]	valid_0's binary_logloss: 0.00425562	valid_1's binary_logloss: 0.00496503
+[900]	valid_0's binary_logloss: 0.00423242	valid_1's binary_logloss: 0.0049581
+[1000]	valid_0's binary_logloss: 0.00419995	valid_1's binary_logloss: 0.0049474
+Did not meet early stopping. Best iteration is:
+[991]	valid_0's binary_logloss: 0.00419682	valid_1's binary_logloss: 0.0049457
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00470308	valid_1's binary_logloss: 0.00523324
+[200]	valid_0's binary_logloss: 0.00457193	valid_1's binary_logloss: 0.00511395
+[300]	valid_0's binary_logloss: 0.00448567	valid_1's binary_logloss: 0.00507016
+[400]	valid_0's binary_logloss: 0.00442666	valid_1's binary_logloss: 0.00503765
+[500]	valid_0's binary_logloss: 0.00437168	valid_1's binary_logloss: 0.00501757
+[600]	valid_0's binary_logloss: 0.00433514	valid_1's binary_logloss: 0.00498504
+[700]	valid_0's binary_logloss: 0.00429506	valid_1's binary_logloss: 0.00497561
+[800]	valid_0's binary_logloss: 0.0042586	valid_1's binary_logloss: 0.00496745
+[900]	valid_0's binary_logloss: 0.00423446	valid_1's binary_logloss: 0.00496279
+[1000]	valid_0's binary_logloss: 0.00420157	valid_1's binary_logloss: 0.00495336
+Did not meet early stopping. Best iteration is:
+[995]	valid_0's binary_logloss: 0.00419877	valid_1's binary_logloss: 0.00495169
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00470221	valid_1's binary_logloss: 0.00523057
+[200]	valid_0's binary_logloss: 0.00456959	valid_1's binary_logloss: 0.00511634
+[300]	valid_0's binary_logloss: 0.00448548	valid_1's binary_logloss: 0.00507651
+[400]	valid_0's binary_logloss: 0.00442466	valid_1's binary_logloss: 0.00504185
+[500]	valid_0's binary_logloss: 0.00437141	valid_1's binary_logloss: 0.00502566
+[600]	valid_0's binary_logloss: 0.00433254	valid_1's binary_logloss: 0.00499172
+[700]	valid_0's binary_logloss: 0.00429283	valid_1's binary_logloss: 0.00498006
+[800]	valid_0's binary_logloss: 0.00425806	valid_1's binary_logloss: 0.00497733
+[900]	valid_0's binary_logloss: 0.00423213	valid_1's binary_logloss: 0.00496574
+[1000]	valid_0's binary_logloss: 0.00419784	valid_1's binary_logloss: 0.00494927
+Did not meet early stopping. Best iteration is:
+[995]	valid_0's binary_logloss: 0.00419501	valid_1's binary_logloss: 0.00494961
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00447974	valid_1's binary_logloss: 0.00490392
+[200]	valid_0's binary_logloss: 0.00433979	valid_1's binary_logloss: 0.00478113
+[300]	valid_0's binary_logloss: 0.00425252	valid_1's binary_logloss: 0.00473326
+[400]	valid_0's binary_logloss: 0.0041932	valid_1's binary_logloss: 0.00470484
+[500]	valid_0's binary_logloss: 0.00414266	valid_1's binary_logloss: 0.00466144
+[600]	valid_0's binary_logloss: 0.00409724	valid_1's binary_logloss: 0.00468162
+Early stopping, best iteration is:
+[578]	valid_0's binary_logloss: 0.00410499	valid_1's binary_logloss: 0.00465495
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00447573	valid_1's binary_logloss: 0.00492978
+[200]	valid_0's binary_logloss: 0.00433996	valid_1's binary_logloss: 0.00484695
+[300]	valid_0's binary_logloss: 0.00425228	valid_1's binary_logloss: 0.00478913
+[400]	valid_0's binary_logloss: 0.00418755	valid_1's binary_logloss: 0.00473205
+[500]	valid_0's binary_logloss: 0.00413315	valid_1's binary_logloss: 0.00472817
+Early stopping, best iteration is:
+[428]	valid_0's binary_logloss: 0.00417391	valid_1's binary_logloss: 0.00471051
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00447774	valid_1's binary_logloss: 0.00489707
+[200]	valid_0's binary_logloss: 0.00433828	valid_1's binary_logloss: 0.00477235
+[300]	valid_0's binary_logloss: 0.00425043	valid_1's binary_logloss: 0.00473032
+[400]	valid_0's binary_logloss: 0.00419333	valid_1's binary_logloss: 0.00470328
+[500]	valid_0's binary_logloss: 0.00414347	valid_1's binary_logloss: 0.00466199
+[600]	valid_0's binary_logloss: 0.00409802	valid_1's binary_logloss: 0.00467384
+Early stopping, best iteration is:
+[578]	valid_0's binary_logloss: 0.0041066	valid_1's binary_logloss: 0.00465455
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00447974	valid_1's binary_logloss: 0.00490392
+[200]	valid_0's binary_logloss: 0.00433979	valid_1's binary_logloss: 0.00478113
+[300]	valid_0's binary_logloss: 0.00425252	valid_1's binary_logloss: 0.00473326
+[400]	valid_0's binary_logloss: 0.0041932	valid_1's binary_logloss: 0.00470484
+[500]	valid_0's binary_logloss: 0.00414266	valid_1's binary_logloss: 0.00466144
+[600]	valid_0's binary_logloss: 0.00409724	valid_1's binary_logloss: 0.00468162
+Early stopping, best iteration is:
+[578]	valid_0's binary_logloss: 0.00410499	valid_1's binary_logloss: 0.00465495
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00447774	valid_1's binary_logloss: 0.00489707
+[200]	valid_0's binary_logloss: 0.00433828	valid_1's binary_logloss: 0.00477235
+[300]	valid_0's binary_logloss: 0.00425043	valid_1's binary_logloss: 0.00473032
+[400]	valid_0's binary_logloss: 0.00419333	valid_1's binary_logloss: 0.00470328
+[500]	valid_0's binary_logloss: 0.00414347	valid_1's binary_logloss: 0.00466199
+[600]	valid_0's binary_logloss: 0.00409802	valid_1's binary_logloss: 0.00467384
+Early stopping, best iteration is:
+[578]	valid_0's binary_logloss: 0.0041066	valid_1's binary_logloss: 0.00465455
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00447182	valid_1's binary_logloss: 0.00489978
+[200]	valid_0's binary_logloss: 0.00433502	valid_1's binary_logloss: 0.00477722
+[300]	valid_0's binary_logloss: 0.00424789	valid_1's binary_logloss: 0.00473375
+[400]	valid_0's binary_logloss: 0.00419071	valid_1's binary_logloss: 0.0047104
+[500]	valid_0's binary_logloss: 0.00414241	valid_1's binary_logloss: 0.00467735
+[600]	valid_0's binary_logloss: 0.00409573	valid_1's binary_logloss: 0.00468788
+Early stopping, best iteration is:
+[578]	valid_0's binary_logloss: 0.00410378	valid_1's binary_logloss: 0.00466743
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00446929	valid_1's binary_logloss: 0.00489318
+[200]	valid_0's binary_logloss: 0.0043364	valid_1's binary_logloss: 0.00478048
+[300]	valid_0's binary_logloss: 0.00424794	valid_1's binary_logloss: 0.00473512
+[400]	valid_0's binary_logloss: 0.00419267	valid_1's binary_logloss: 0.00471678
+[500]	valid_0's binary_logloss: 0.0041435	valid_1's binary_logloss: 0.00468368
+[600]	valid_0's binary_logloss: 0.00409943	valid_1's binary_logloss: 0.00469226
+Early stopping, best iteration is:
+[542]	valid_0's binary_logloss: 0.00412292	valid_1's binary_logloss: 0.0046761
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00453391	valid_1's binary_logloss: 0.00495386
+[200]	valid_0's binary_logloss: 0.00439215	valid_1's binary_logloss: 0.00481968
+[300]	valid_0's binary_logloss: 0.0043038	valid_1's binary_logloss: 0.00476668
+[400]	valid_0's binary_logloss: 0.00424735	valid_1's binary_logloss: 0.00474363
+[500]	valid_0's binary_logloss: 0.00419874	valid_1's binary_logloss: 0.00471166
+[600]	valid_0's binary_logloss: 0.00416112	valid_1's binary_logloss: 0.00471125
+[700]	valid_0's binary_logloss: 0.00412315	valid_1's binary_logloss: 0.00469619
+[800]	valid_0's binary_logloss: 0.0040926	valid_1's binary_logloss: 0.00468549
+[900]	valid_0's binary_logloss: 0.00406136	valid_1's binary_logloss: 0.00466282
+[1000]	valid_0's binary_logloss: 0.00403564	valid_1's binary_logloss: 0.00465084
+Did not meet early stopping. Best iteration is:
+[1000]	valid_0's binary_logloss: 0.00403564	valid_1's binary_logloss: 0.00465084
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.0044937	valid_1's binary_logloss: 0.00491526
+[200]	valid_0's binary_logloss: 0.0043553	valid_1's binary_logloss: 0.00479301
+[300]	valid_0's binary_logloss: 0.0042703	valid_1's binary_logloss: 0.00473875
+[400]	valid_0's binary_logloss: 0.00421732	valid_1's binary_logloss: 0.00472822
+[500]	valid_0's binary_logloss: 0.00416525	valid_1's binary_logloss: 0.00469264
+[600]	valid_0's binary_logloss: 0.00412631	valid_1's binary_logloss: 0.00469509
+Early stopping, best iteration is:
+[578]	valid_0's binary_logloss: 0.00413422	valid_1's binary_logloss: 0.00467735
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00447774	valid_1's binary_logloss: 0.00489707
+[200]	valid_0's binary_logloss: 0.00433828	valid_1's binary_logloss: 0.00477235
+[300]	valid_0's binary_logloss: 0.00425043	valid_1's binary_logloss: 0.00473032
+[400]	valid_0's binary_logloss: 0.00419333	valid_1's binary_logloss: 0.00470328
+[500]	valid_0's binary_logloss: 0.00414347	valid_1's binary_logloss: 0.00466199
+[600]	valid_0's binary_logloss: 0.00409802	valid_1's binary_logloss: 0.00467384
+Early stopping, best iteration is:
+[578]	valid_0's binary_logloss: 0.0041066	valid_1's binary_logloss: 0.00465455
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00447774	valid_1's binary_logloss: 0.00489707
+[200]	valid_0's binary_logloss: 0.00433828	valid_1's binary_logloss: 0.00477235
+[300]	valid_0's binary_logloss: 0.00425043	valid_1's binary_logloss: 0.00473032
+[400]	valid_0's binary_logloss: 0.00419333	valid_1's binary_logloss: 0.00470328
+[500]	valid_0's binary_logloss: 0.00414347	valid_1's binary_logloss: 0.00466199
+[600]	valid_0's binary_logloss: 0.00409802	valid_1's binary_logloss: 0.00467384
+Early stopping, best iteration is:
+[578]	valid_0's binary_logloss: 0.0041066	valid_1's binary_logloss: 0.00465455
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00447774	valid_1's binary_logloss: 0.00489707
+[200]	valid_0's binary_logloss: 0.00433828	valid_1's binary_logloss: 0.00477235
+[300]	valid_0's binary_logloss: 0.00425043	valid_1's binary_logloss: 0.00473032
+[400]	valid_0's binary_logloss: 0.00419333	valid_1's binary_logloss: 0.00470328
+[500]	valid_0's binary_logloss: 0.00414347	valid_1's binary_logloss: 0.00466199
+[600]	valid_0's binary_logloss: 0.00409802	valid_1's binary_logloss: 0.00467384
+Early stopping, best iteration is:
+[578]	valid_0's binary_logloss: 0.0041066	valid_1's binary_logloss: 0.00465455
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00447774	valid_1's binary_logloss: 0.00489707
+[200]	valid_0's binary_logloss: 0.00433828	valid_1's binary_logloss: 0.00477235
+[300]	valid_0's binary_logloss: 0.00425043	valid_1's binary_logloss: 0.00473032
+[400]	valid_0's binary_logloss: 0.00419333	valid_1's binary_logloss: 0.00470328
+[500]	valid_0's binary_logloss: 0.00414347	valid_1's binary_logloss: 0.00466199
+[600]	valid_0's binary_logloss: 0.00409802	valid_1's binary_logloss: 0.00467384
+Early stopping, best iteration is:
+[578]	valid_0's binary_logloss: 0.0041066	valid_1's binary_logloss: 0.00465455
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00447774	valid_1's binary_logloss: 0.00489707
+[200]	valid_0's binary_logloss: 0.00433828	valid_1's binary_logloss: 0.00477235
+[300]	valid_0's binary_logloss: 0.00425043	valid_1's binary_logloss: 0.00473032
+[400]	valid_0's binary_logloss: 0.00419333	valid_1's binary_logloss: 0.00470328
+[500]	valid_0's binary_logloss: 0.00414347	valid_1's binary_logloss: 0.00466199
+[600]	valid_0's binary_logloss: 0.00409802	valid_1's binary_logloss: 0.00467384
+Early stopping, best iteration is:
+[578]	valid_0's binary_logloss: 0.0041066	valid_1's binary_logloss: 0.00465455
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00447774	valid_1's binary_logloss: 0.00489707
+[200]	valid_0's binary_logloss: 0.00433828	valid_1's binary_logloss: 0.00477235
+[300]	valid_0's binary_logloss: 0.00425043	valid_1's binary_logloss: 0.00473032
+[400]	valid_0's binary_logloss: 0.00419333	valid_1's binary_logloss: 0.00470328
+[500]	valid_0's binary_logloss: 0.00414347	valid_1's binary_logloss: 0.00466199
+[600]	valid_0's binary_logloss: 0.00409802	valid_1's binary_logloss: 0.00467384
+Early stopping, best iteration is:
+[578]	valid_0's binary_logloss: 0.0041066	valid_1's binary_logloss: 0.00465455
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00447774	valid_1's binary_logloss: 0.00489707
+[200]	valid_0's binary_logloss: 0.00433828	valid_1's binary_logloss: 0.00477235
+[300]	valid_0's binary_logloss: 0.00425043	valid_1's binary_logloss: 0.00473032
+[400]	valid_0's binary_logloss: 0.00419333	valid_1's binary_logloss: 0.00470328
+[500]	valid_0's binary_logloss: 0.00414347	valid_1's binary_logloss: 0.00466199
+[600]	valid_0's binary_logloss: 0.00409802	valid_1's binary_logloss: 0.00467384
+Early stopping, best iteration is:
+[578]	valid_0's binary_logloss: 0.0041066	valid_1's binary_logloss: 0.00465455
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00447774	valid_1's binary_logloss: 0.00489707
+[200]	valid_0's binary_logloss: 0.00433828	valid_1's binary_logloss: 0.00477235
+[300]	valid_0's binary_logloss: 0.00425043	valid_1's binary_logloss: 0.00473032
+[400]	valid_0's binary_logloss: 0.00419333	valid_1's binary_logloss: 0.00470328
+[500]	valid_0's binary_logloss: 0.00414347	valid_1's binary_logloss: 0.00466199
+[600]	valid_0's binary_logloss: 0.00409802	valid_1's binary_logloss: 0.00467384
+Early stopping, best iteration is:
+[578]	valid_0's binary_logloss: 0.0041066	valid_1's binary_logloss: 0.00465455
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00447774	valid_1's binary_logloss: 0.00489707
+[200]	valid_0's binary_logloss: 0.00433828	valid_1's binary_logloss: 0.00477235
+[300]	valid_0's binary_logloss: 0.00425043	valid_1's binary_logloss: 0.00473032
+[400]	valid_0's binary_logloss: 0.00419333	valid_1's binary_logloss: 0.00470328
+[500]	valid_0's binary_logloss: 0.00414347	valid_1's binary_logloss: 0.00466199
+[600]	valid_0's binary_logloss: 0.00409802	valid_1's binary_logloss: 0.00467384
+Early stopping, best iteration is:
+[578]	valid_0's binary_logloss: 0.0041066	valid_1's binary_logloss: 0.00465455
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00447774	valid_1's binary_logloss: 0.00489707
+[200]	valid_0's binary_logloss: 0.00433828	valid_1's binary_logloss: 0.00477234
+[300]	valid_0's binary_logloss: 0.00425013	valid_1's binary_logloss: 0.00473258
+[400]	valid_0's binary_logloss: 0.00419532	valid_1's binary_logloss: 0.00470874
+[500]	valid_0's binary_logloss: 0.0041433	valid_1's binary_logloss: 0.00467463
+[600]	valid_0's binary_logloss: 0.00409635	valid_1's binary_logloss: 0.00468281
+Early stopping, best iteration is:
+[578]	valid_0's binary_logloss: 0.00410539	valid_1's binary_logloss: 0.00466378
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00447774	valid_1's binary_logloss: 0.00489707
+[200]	valid_0's binary_logloss: 0.00433828	valid_1's binary_logloss: 0.00477235
+[300]	valid_0's binary_logloss: 0.00425013	valid_1's binary_logloss: 0.00473259
+[400]	valid_0's binary_logloss: 0.00419532	valid_1's binary_logloss: 0.00470875
+[500]	valid_0's binary_logloss: 0.00414331	valid_1's binary_logloss: 0.00467464
+[600]	valid_0's binary_logloss: 0.00409635	valid_1's binary_logloss: 0.00468282
+Early stopping, best iteration is:
+[578]	valid_0's binary_logloss: 0.00410539	valid_1's binary_logloss: 0.00466378
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00447774	valid_1's binary_logloss: 0.00489707
+[200]	valid_0's binary_logloss: 0.00433828	valid_1's binary_logloss: 0.00477235
+[300]	valid_0's binary_logloss: 0.00425013	valid_1's binary_logloss: 0.00473259
+[400]	valid_0's binary_logloss: 0.00419532	valid_1's binary_logloss: 0.00470874
+[500]	valid_0's binary_logloss: 0.0041433	valid_1's binary_logloss: 0.00467463
+[600]	valid_0's binary_logloss: 0.00409635	valid_1's binary_logloss: 0.00468282
+Early stopping, best iteration is:
+[578]	valid_0's binary_logloss: 0.00410539	valid_1's binary_logloss: 0.00466378
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00447774	valid_1's binary_logloss: 0.00489707
+[200]	valid_0's binary_logloss: 0.00433828	valid_1's binary_logloss: 0.00477235
+[300]	valid_0's binary_logloss: 0.00425043	valid_1's binary_logloss: 0.00473032
+[400]	valid_0's binary_logloss: 0.00419333	valid_1's binary_logloss: 0.00470328
+[500]	valid_0's binary_logloss: 0.00414347	valid_1's binary_logloss: 0.00466199
+[600]	valid_0's binary_logloss: 0.00409802	valid_1's binary_logloss: 0.00467384
+Early stopping, best iteration is:
+[578]	valid_0's binary_logloss: 0.0041066	valid_1's binary_logloss: 0.00465455
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00447774	valid_1's binary_logloss: 0.00489707
+[200]	valid_0's binary_logloss: 0.00433828	valid_1's binary_logloss: 0.00477235
+[300]	valid_0's binary_logloss: 0.00425013	valid_1's binary_logloss: 0.00473259
+[400]	valid_0's binary_logloss: 0.00419532	valid_1's binary_logloss: 0.00470874
+[500]	valid_0's binary_logloss: 0.0041433	valid_1's binary_logloss: 0.00467463
+[600]	valid_0's binary_logloss: 0.00409635	valid_1's binary_logloss: 0.00468282
+Early stopping, best iteration is:
+[578]	valid_0's binary_logloss: 0.00410539	valid_1's binary_logloss: 0.00466378
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00448034	valid_1's binary_logloss: 0.00489985
+[200]	valid_0's binary_logloss: 0.00434066	valid_1's binary_logloss: 0.004767
+[300]	valid_0's binary_logloss: 0.00425377	valid_1's binary_logloss: 0.00471728
+[400]	valid_0's binary_logloss: 0.00420028	valid_1's binary_logloss: 0.00470015
+[500]	valid_0's binary_logloss: 0.00414897	valid_1's binary_logloss: 0.00466526
+[600]	valid_0's binary_logloss: 0.00410968	valid_1's binary_logloss: 0.00467568
+[700]	valid_0's binary_logloss: 0.00407113	valid_1's binary_logloss: 0.00465765
+[800]	valid_0's binary_logloss: 0.00403528	valid_1's binary_logloss: 0.00464194
+[900]	valid_0's binary_logloss: 0.00400242	valid_1's binary_logloss: 0.00461132
+[1000]	valid_0's binary_logloss: 0.0039716	valid_1's binary_logloss: 0.00461394
+Did not meet early stopping. Best iteration is:
+[1000]	valid_0's binary_logloss: 0.0039716	valid_1's binary_logloss: 0.00461394
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00450929	valid_1's binary_logloss: 0.00494006
+[200]	valid_0's binary_logloss: 0.0043694	valid_1's binary_logloss: 0.00480348
+[300]	valid_0's binary_logloss: 0.00428159	valid_1's binary_logloss: 0.00475032
+[400]	valid_0's binary_logloss: 0.00422866	valid_1's binary_logloss: 0.00473898
+[500]	valid_0's binary_logloss: 0.00417996	valid_1's binary_logloss: 0.00469998
+[600]	valid_0's binary_logloss: 0.00414062	valid_1's binary_logloss: 0.00469556
+[700]	valid_0's binary_logloss: 0.00410132	valid_1's binary_logloss: 0.00468232
+[800]	valid_0's binary_logloss: 0.00407028	valid_1's binary_logloss: 0.00467
+[900]	valid_0's binary_logloss: 0.00403885	valid_1's binary_logloss: 0.004639
+[1000]	valid_0's binary_logloss: 0.00401105	valid_1's binary_logloss: 0.00463271
+Did not meet early stopping. Best iteration is:
+[1000]	valid_0's binary_logloss: 0.00401105	valid_1's binary_logloss: 0.00463271
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00448034	valid_1's binary_logloss: 0.00489985
+[200]	valid_0's binary_logloss: 0.00434066	valid_1's binary_logloss: 0.004767
+[300]	valid_0's binary_logloss: 0.00425377	valid_1's binary_logloss: 0.00471728
+[400]	valid_0's binary_logloss: 0.00420028	valid_1's binary_logloss: 0.00470015
+[500]	valid_0's binary_logloss: 0.00414897	valid_1's binary_logloss: 0.00466526
+[600]	valid_0's binary_logloss: 0.00410968	valid_1's binary_logloss: 0.00467568
+[700]	valid_0's binary_logloss: 0.00407113	valid_1's binary_logloss: 0.00465765
+[800]	valid_0's binary_logloss: 0.00403528	valid_1's binary_logloss: 0.00464194
+[900]	valid_0's binary_logloss: 0.00400242	valid_1's binary_logloss: 0.00461132
+[1000]	valid_0's binary_logloss: 0.0039716	valid_1's binary_logloss: 0.00461394
+Did not meet early stopping. Best iteration is:
+[1000]	valid_0's binary_logloss: 0.0039716	valid_1's binary_logloss: 0.00461394
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00448034	valid_1's binary_logloss: 0.00489985
+[200]	valid_0's binary_logloss: 0.00434066	valid_1's binary_logloss: 0.004767
+[300]	valid_0's binary_logloss: 0.00425377	valid_1's binary_logloss: 0.00471728
+[400]	valid_0's binary_logloss: 0.00420028	valid_1's binary_logloss: 0.00470015
+[500]	valid_0's binary_logloss: 0.00414897	valid_1's binary_logloss: 0.00466526
+[600]	valid_0's binary_logloss: 0.00410968	valid_1's binary_logloss: 0.00467568
+[700]	valid_0's binary_logloss: 0.00407113	valid_1's binary_logloss: 0.00465765
+[800]	valid_0's binary_logloss: 0.00403528	valid_1's binary_logloss: 0.00464194
+[900]	valid_0's binary_logloss: 0.00400242	valid_1's binary_logloss: 0.00461132
+[1000]	valid_0's binary_logloss: 0.0039716	valid_1's binary_logloss: 0.00461394
+Did not meet early stopping. Best iteration is:
+[1000]	valid_0's binary_logloss: 0.0039716	valid_1's binary_logloss: 0.00461394
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00448034	valid_1's binary_logloss: 0.00489985
+[200]	valid_0's binary_logloss: 0.00434066	valid_1's binary_logloss: 0.004767
+[300]	valid_0's binary_logloss: 0.00425377	valid_1's binary_logloss: 0.00471728
+[400]	valid_0's binary_logloss: 0.00420028	valid_1's binary_logloss: 0.00470015
+[500]	valid_0's binary_logloss: 0.00414897	valid_1's binary_logloss: 0.00466526
+[600]	valid_0's binary_logloss: 0.00410968	valid_1's binary_logloss: 0.00467568
+[700]	valid_0's binary_logloss: 0.00407113	valid_1's binary_logloss: 0.00465765
+[800]	valid_0's binary_logloss: 0.00403528	valid_1's binary_logloss: 0.00464194
+[900]	valid_0's binary_logloss: 0.00400242	valid_1's binary_logloss: 0.00461132
+[1000]	valid_0's binary_logloss: 0.0039716	valid_1's binary_logloss: 0.00461394
+Did not meet early stopping. Best iteration is:
+[1000]	valid_0's binary_logloss: 0.0039716	valid_1's binary_logloss: 0.00461394
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00448034	valid_1's binary_logloss: 0.00489985
+[200]	valid_0's binary_logloss: 0.00434066	valid_1's binary_logloss: 0.004767
+[300]	valid_0's binary_logloss: 0.00425377	valid_1's binary_logloss: 0.00471728
+[400]	valid_0's binary_logloss: 0.00420028	valid_1's binary_logloss: 0.00470015
+[500]	valid_0's binary_logloss: 0.00414897	valid_1's binary_logloss: 0.00466526
+[600]	valid_0's binary_logloss: 0.00410968	valid_1's binary_logloss: 0.00467568
+[700]	valid_0's binary_logloss: 0.00407113	valid_1's binary_logloss: 0.00465765
+[800]	valid_0's binary_logloss: 0.00403528	valid_1's binary_logloss: 0.00464194
+[900]	valid_0's binary_logloss: 0.00400242	valid_1's binary_logloss: 0.00461132
+[1000]	valid_0's binary_logloss: 0.0039716	valid_1's binary_logloss: 0.00461394
+Did not meet early stopping. Best iteration is:
+[1000]	valid_0's binary_logloss: 0.0039716	valid_1's binary_logloss: 0.00461394
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00448034	valid_1's binary_logloss: 0.00489985
+[200]	valid_0's binary_logloss: 0.00434066	valid_1's binary_logloss: 0.004767
+[300]	valid_0's binary_logloss: 0.00425377	valid_1's binary_logloss: 0.00471728
+[400]	valid_0's binary_logloss: 0.00420028	valid_1's binary_logloss: 0.00470015
+[500]	valid_0's binary_logloss: 0.00414897	valid_1's binary_logloss: 0.00466526
+[600]	valid_0's binary_logloss: 0.00410968	valid_1's binary_logloss: 0.00467568
+[700]	valid_0's binary_logloss: 0.00407113	valid_1's binary_logloss: 0.00465765
+[800]	valid_0's binary_logloss: 0.00403528	valid_1's binary_logloss: 0.00464194
+[900]	valid_0's binary_logloss: 0.00400242	valid_1's binary_logloss: 0.00461132
+[1000]	valid_0's binary_logloss: 0.0039716	valid_1's binary_logloss: 0.00461394
+Did not meet early stopping. Best iteration is:
+[1000]	valid_0's binary_logloss: 0.0039716	valid_1's binary_logloss: 0.00461394
+Best parameters:
+{'objective': 'binary', 'metric': 'binary_logloss', 'verbosity': -1, 'boosting_type': 'gbdt', 'sample_pos_weight': 1763.7918215613383, 'feature_pre_filter': False, 'lambda_l1': 6.022519174304951e-06, 'lambda_l2': 1.109511107470957, 'num_leaves': 2, 'feature_fraction': 0.92, 'bagging_fraction': 0.5335108530962187, 'bagging_freq': 2, 'min_child_samples': 25, 'num_iterations': 1000}
+===  Training  ===
+Accuracy: 0.9994375738579274
+Confusion Matrix:
+[[474460      0]
+ [   267      2]]
+AUPR: 0.058550199669239286
+AUROC: 0.8639838097296131
+=== Testing ===
+Accuracy: 0.9993764903145353
+Confusion Matrix:
+[[118609      0]
+ [    74      0]]
+AUPR: 0.03043506439220353
+AUROC: 0.8043604776356928
+===            ===
+Feature importance: [ 83  82  85  32 115 104 113 105  43 107 131]
+Processing fix_Kitware_TA1_Trial_1_Train_Submission
+Training set number of positive samples: 261, negative samples: 256226 (ratio: 0.0010175954336866975)
+Testing set number of positive samples: 53, negative samples: 64069 (ratio: 0.0008265493902248839)
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.170867	valid_1's binary_logloss: 0.189318
+Early stopping, best iteration is:
+[2]	valid_0's binary_logloss: 0.0125619	valid_1's binary_logloss: 0.0113449
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.103844	valid_1's binary_logloss: 0.102191
+Early stopping, best iteration is:
+[6]	valid_0's binary_logloss: 0.0121105	valid_1's binary_logloss: 0.0120599
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.0751452	valid_1's binary_logloss: 0.079327
+Early stopping, best iteration is:
+[5]	valid_0's binary_logloss: 0.0122091	valid_1's binary_logloss: 0.012097
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.0538154	valid_1's binary_logloss: 0.0824136
+Early stopping, best iteration is:
+[2]	valid_0's binary_logloss: 0.0135434	valid_1's binary_logloss: 0.00977045
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.116147	valid_1's binary_logloss: 0.113007
+Early stopping, best iteration is:
+[5]	valid_0's binary_logloss: 0.0107731	valid_1's binary_logloss: 0.0130088
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.0734981	valid_1's binary_logloss: 0.077841
+Early stopping, best iteration is:
+[2]	valid_0's binary_logloss: 0.0123586	valid_1's binary_logloss: 0.0125777
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.111442	valid_1's binary_logloss: 0.120759
+Early stopping, best iteration is:
+[8]	valid_0's binary_logloss: 0.0136219	valid_1's binary_logloss: 0.0173881
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.0492494	valid_1's binary_logloss: 0.165298
+Early stopping, best iteration is:
+[2]	valid_0's binary_logloss: 0.0156383	valid_1's binary_logloss: 0.0161946
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.0165875	valid_1's binary_logloss: 0.148876
+Early stopping, best iteration is:
+[2]	valid_0's binary_logloss: 0.0159502	valid_1's binary_logloss: 0.016669
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.0359822	valid_1's binary_logloss: 0.141611
+Early stopping, best iteration is:
+[2]	valid_0's binary_logloss: 0.0172703	valid_1's binary_logloss: 0.0147529
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00481156	valid_1's binary_logloss: 0.00615205
+[200]	valid_0's binary_logloss: 0.00660001	valid_1's binary_logloss: 0.010512
+Early stopping, best iteration is:
+[178]	valid_0's binary_logloss: 0.00449176	valid_1's binary_logloss: 0.00553375
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.0144301	valid_1's binary_logloss: 0.0108574
+Early stopping, best iteration is:
+[2]	valid_0's binary_logloss: 0.00953713	valid_1's binary_logloss: 0.00757256
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.0192692	valid_1's binary_logloss: 0.0258982
+Early stopping, best iteration is:
+[3]	valid_0's binary_logloss: 0.012339	valid_1's binary_logloss: 0.00854904
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.01879	valid_1's binary_logloss: 0.016449
+Early stopping, best iteration is:
+[2]	valid_0's binary_logloss: 0.00995146	valid_1's binary_logloss: 0.00774612
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.0401751	valid_1's binary_logloss: 0.132308
+Early stopping, best iteration is:
+[2]	valid_0's binary_logloss: 0.0146239	valid_1's binary_logloss: 0.0120905
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.0206119	valid_1's binary_logloss: 0.160797
+Early stopping, best iteration is:
+[2]	valid_0's binary_logloss: 0.0155165	valid_1's binary_logloss: 0.016158
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.076982	valid_1's binary_logloss: 0.127924
+Early stopping, best iteration is:
+[2]	valid_0's binary_logloss: 0.0175285	valid_1's binary_logloss: 0.0130724
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.0497632	valid_1's binary_logloss: 0.0985228
+Early stopping, best iteration is:
+[2]	valid_0's binary_logloss: 0.0149376	valid_1's binary_logloss: 0.0100686
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.0221439	valid_1's binary_logloss: 0.125345
+Early stopping, best iteration is:
+[2]	valid_0's binary_logloss: 0.0162776	valid_1's binary_logloss: 0.0162582
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.0144301	valid_1's binary_logloss: 0.0108574
+Early stopping, best iteration is:
+[2]	valid_0's binary_logloss: 0.00953713	valid_1's binary_logloss: 0.00757256
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.0244443	valid_1's binary_logloss: 0.150441
+Early stopping, best iteration is:
+[2]	valid_0's binary_logloss: 0.015552	valid_1's binary_logloss: 0.0161654
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.0144301	valid_1's binary_logloss: 0.0108574
+Early stopping, best iteration is:
+[2]	valid_0's binary_logloss: 0.00953713	valid_1's binary_logloss: 0.00757256
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.0497632	valid_1's binary_logloss: 0.0985228
+Early stopping, best iteration is:
+[2]	valid_0's binary_logloss: 0.0149376	valid_1's binary_logloss: 0.0100686
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.0745883	valid_1's binary_logloss: 0.104975
+Early stopping, best iteration is:
+[2]	valid_0's binary_logloss: 0.0140778	valid_1's binary_logloss: 0.00968401
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.057809	valid_1's binary_logloss: 0.120486
+Early stopping, best iteration is:
+[2]	valid_0's binary_logloss: 0.0150468	valid_1's binary_logloss: 0.0124302
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.0412761	valid_1's binary_logloss: 0.0593193
+Early stopping, best iteration is:
+[2]	valid_0's binary_logloss: 0.0140285	valid_1's binary_logloss: 0.00988671
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.0402285	valid_1's binary_logloss: 0.111572
+Early stopping, best iteration is:
+[2]	valid_0's binary_logloss: 0.0150313	valid_1's binary_logloss: 0.0121788
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.106686	valid_1's binary_logloss: 0.101262
+Early stopping, best iteration is:
+[11]	valid_0's binary_logloss: 0.00984761	valid_1's binary_logloss: 0.0086795
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.0211954	valid_1's binary_logloss: 0.0254437
+Early stopping, best iteration is:
+[2]	valid_0's binary_logloss: 0.0112903	valid_1's binary_logloss: 0.0074523
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.0210469	valid_1's binary_logloss: 0.0243366
+Early stopping, best iteration is:
+[2]	valid_0's binary_logloss: 0.0127223	valid_1's binary_logloss: 0.00826216
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.0308483	valid_1's binary_logloss: 0.0298674
+Early stopping, best iteration is:
+[3]	valid_0's binary_logloss: 0.00891341	valid_1's binary_logloss: 0.00723046
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.0168127	valid_1's binary_logloss: 0.0177385
+Early stopping, best iteration is:
+[4]	valid_0's binary_logloss: 0.00964956	valid_1's binary_logloss: 0.00752256
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.0170273	valid_1's binary_logloss: 0.012942
+Early stopping, best iteration is:
+[5]	valid_0's binary_logloss: 0.0121492	valid_1's binary_logloss: 0.00846025
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.0221385	valid_1's binary_logloss: 0.0215273
+Early stopping, best iteration is:
+[4]	valid_0's binary_logloss: 0.00969434	valid_1's binary_logloss: 0.00759669
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00588073	valid_1's binary_logloss: 0.0075886
+[200]	valid_0's binary_logloss: 0.00874814	valid_1's binary_logloss: 0.0125898
+Early stopping, best iteration is:
+[125]	valid_0's binary_logloss: 0.00526698	valid_1's binary_logloss: 0.00702769
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.0109829	valid_1's binary_logloss: 0.0131099
+Early stopping, best iteration is:
+[44]	valid_0's binary_logloss: 0.00739978	valid_1's binary_logloss: 0.00693374
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.0055652	valid_1's binary_logloss: 0.00648179
+Early stopping, best iteration is:
+[48]	valid_0's binary_logloss: 0.00616109	valid_1's binary_logloss: 0.00554187
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00481156	valid_1's binary_logloss: 0.00615205
+[200]	valid_0's binary_logloss: 0.00660001	valid_1's binary_logloss: 0.010512
+Early stopping, best iteration is:
+[178]	valid_0's binary_logloss: 0.00449176	valid_1's binary_logloss: 0.00553375
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00440801	valid_1's binary_logloss: 0.00536262
+Early stopping, best iteration is:
+[60]	valid_0's binary_logloss: 0.00503358	valid_1's binary_logloss: 0.00507362
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00440801	valid_1's binary_logloss: 0.00536262
+Early stopping, best iteration is:
+[60]	valid_0's binary_logloss: 0.00503358	valid_1's binary_logloss: 0.00507362
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.0120711	valid_1's binary_logloss: 0.00923097
+Early stopping, best iteration is:
+[41]	valid_0's binary_logloss: 0.00880857	valid_1's binary_logloss: 0.00597597
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00284585	valid_1's binary_logloss: 0.00337417
+[200]	valid_0's binary_logloss: 0.00215912	valid_1's binary_logloss: 0.00311303
+[300]	valid_0's binary_logloss: 0.00165387	valid_1's binary_logloss: 0.00298376
+[400]	valid_0's binary_logloss: 0.00128784	valid_1's binary_logloss: 0.00291174
+[500]	valid_0's binary_logloss: 0.000990035	valid_1's binary_logloss: 0.00291582
+Early stopping, best iteration is:
+[466]	valid_0's binary_logloss: 0.00108586	valid_1's binary_logloss: 0.00289481
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00323869	valid_1's binary_logloss: 0.00292389
+[200]	valid_0's binary_logloss: 0.00269812	valid_1's binary_logloss: 0.00255723
+[300]	valid_0's binary_logloss: 0.00236	valid_1's binary_logloss: 0.00247668
+[400]	valid_0's binary_logloss: 0.00210178	valid_1's binary_logloss: 0.00242148
+[500]	valid_0's binary_logloss: 0.00189331	valid_1's binary_logloss: 0.00236985
+[600]	valid_0's binary_logloss: 0.00170903	valid_1's binary_logloss: 0.00235321
+[700]	valid_0's binary_logloss: 0.00155116	valid_1's binary_logloss: 0.00234776
+[800]	valid_0's binary_logloss: 0.00141931	valid_1's binary_logloss: 0.0023427
+[900]	valid_0's binary_logloss: 0.0013026	valid_1's binary_logloss: 0.00233972
+Early stopping, best iteration is:
+[878]	valid_0's binary_logloss: 0.00132683	valid_1's binary_logloss: 0.00233797
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00335052	valid_1's binary_logloss: 0.00301984
+[200]	valid_0's binary_logloss: 0.00280649	valid_1's binary_logloss: 0.002629
+[300]	valid_0's binary_logloss: 0.00249889	valid_1's binary_logloss: 0.00253245
+[400]	valid_0's binary_logloss: 0.00225581	valid_1's binary_logloss: 0.00247606
+[500]	valid_0's binary_logloss: 0.00205833	valid_1's binary_logloss: 0.00245561
+[600]	valid_0's binary_logloss: 0.00189243	valid_1's binary_logloss: 0.00242163
+[700]	valid_0's binary_logloss: 0.00174258	valid_1's binary_logloss: 0.00239826
+[800]	valid_0's binary_logloss: 0.00161406	valid_1's binary_logloss: 0.00239312
+[900]	valid_0's binary_logloss: 0.00149187	valid_1's binary_logloss: 0.00238164
+[1000]	valid_0's binary_logloss: 0.00138237	valid_1's binary_logloss: 0.00238121
+Did not meet early stopping. Best iteration is:
+[1000]	valid_0's binary_logloss: 0.00138237	valid_1's binary_logloss: 0.00238121
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00335883	valid_1's binary_logloss: 0.00300781
+[200]	valid_0's binary_logloss: 0.00282298	valid_1's binary_logloss: 0.00262797
+[300]	valid_0's binary_logloss: 0.00253046	valid_1's binary_logloss: 0.0025244
+[400]	valid_0's binary_logloss: 0.0022998	valid_1's binary_logloss: 0.00247534
+[500]	valid_0's binary_logloss: 0.00210464	valid_1's binary_logloss: 0.00244933
+[600]	valid_0's binary_logloss: 0.00194117	valid_1's binary_logloss: 0.00241917
+[700]	valid_0's binary_logloss: 0.00179057	valid_1's binary_logloss: 0.00241281
+[800]	valid_0's binary_logloss: 0.00166106	valid_1's binary_logloss: 0.00239924
+[900]	valid_0's binary_logloss: 0.001546	valid_1's binary_logloss: 0.00239502
+Early stopping, best iteration is:
+[823]	valid_0's binary_logloss: 0.00163177	valid_1's binary_logloss: 0.00238616
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00324931	valid_1's binary_logloss: 0.00303461
+[200]	valid_0's binary_logloss: 0.00268602	valid_1's binary_logloss: 0.00261248
+[300]	valid_0's binary_logloss: 0.00234242	valid_1's binary_logloss: 0.00249017
+[400]	valid_0's binary_logloss: 0.0020912	valid_1's binary_logloss: 0.00243688
+[500]	valid_0's binary_logloss: 0.00188098	valid_1's binary_logloss: 0.00240255
+[600]	valid_0's binary_logloss: 0.00170204	valid_1's binary_logloss: 0.0023759
+[700]	valid_0's binary_logloss: 0.00155898	valid_1's binary_logloss: 0.0023659
+[800]	valid_0's binary_logloss: 0.00142295	valid_1's binary_logloss: 0.00236134
+Early stopping, best iteration is:
+[788]	valid_0's binary_logloss: 0.00143767	valid_1's binary_logloss: 0.00235478
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00337039	valid_1's binary_logloss: 0.00302696
+[200]	valid_0's binary_logloss: 0.00282273	valid_1's binary_logloss: 0.0026255
+[300]	valid_0's binary_logloss: 0.00252864	valid_1's binary_logloss: 0.00253535
+[400]	valid_0's binary_logloss: 0.00228813	valid_1's binary_logloss: 0.00247714
+[500]	valid_0's binary_logloss: 0.00209286	valid_1's binary_logloss: 0.00242929
+[600]	valid_0's binary_logloss: 0.00192168	valid_1's binary_logloss: 0.00240214
+[700]	valid_0's binary_logloss: 0.00177431	valid_1's binary_logloss: 0.00238368
+Early stopping, best iteration is:
+[670]	valid_0's binary_logloss: 0.00181861	valid_1's binary_logloss: 0.00237962
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00329659	valid_1's binary_logloss: 0.00302787
+[200]	valid_0's binary_logloss: 0.00272626	valid_1's binary_logloss: 0.00257899
+[300]	valid_0's binary_logloss: 0.00240454	valid_1's binary_logloss: 0.00248737
+[400]	valid_0's binary_logloss: 0.00214295	valid_1's binary_logloss: 0.00242981
+[500]	valid_0's binary_logloss: 0.00195058	valid_1's binary_logloss: 0.00240471
+[600]	valid_0's binary_logloss: 0.00178488	valid_1's binary_logloss: 0.00238154
+[700]	valid_0's binary_logloss: 0.0016076	valid_1's binary_logloss: 0.00237093
+Early stopping, best iteration is:
+[690]	valid_0's binary_logloss: 0.00162243	valid_1's binary_logloss: 0.00236662
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00335522	valid_1's binary_logloss: 0.00313959
+[200]	valid_0's binary_logloss: 0.00275996	valid_1's binary_logloss: 0.00256918
+[300]	valid_0's binary_logloss: 0.00244539	valid_1's binary_logloss: 0.0024747
+[400]	valid_0's binary_logloss: 0.0021972	valid_1's binary_logloss: 0.00240693
+[500]	valid_0's binary_logloss: 0.00198834	valid_1's binary_logloss: 0.00238306
+[600]	valid_0's binary_logloss: 0.00181149	valid_1's binary_logloss: 0.00238146
+[700]	valid_0's binary_logloss: 0.00165576	valid_1's binary_logloss: 0.00236069
+[800]	valid_0's binary_logloss: 0.00152001	valid_1's binary_logloss: 0.00236547
+Early stopping, best iteration is:
+[761]	valid_0's binary_logloss: 0.00157017	valid_1's binary_logloss: 0.00235086
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00330018	valid_1's binary_logloss: 0.00299128
+[200]	valid_0's binary_logloss: 0.00273709	valid_1's binary_logloss: 0.00258014
+[300]	valid_0's binary_logloss: 0.00243467	valid_1's binary_logloss: 0.00250149
+[400]	valid_0's binary_logloss: 0.00218213	valid_1's binary_logloss: 0.00242811
+[500]	valid_0's binary_logloss: 0.00196722	valid_1's binary_logloss: 0.00238871
+[600]	valid_0's binary_logloss: 0.00178471	valid_1's binary_logloss: 0.00238119
+[700]	valid_0's binary_logloss: 0.00162421	valid_1's binary_logloss: 0.00235201
+[800]	valid_0's binary_logloss: 0.00149189	valid_1's binary_logloss: 0.00232916
+[900]	valid_0's binary_logloss: 0.00136854	valid_1's binary_logloss: 0.00233288
+Early stopping, best iteration is:
+[841]	valid_0's binary_logloss: 0.00144427	valid_1's binary_logloss: 0.00232327
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00298145	valid_1's binary_logloss: 0.00289521
+[200]	valid_0's binary_logloss: 0.0023695	valid_1's binary_logloss: 0.0025777
+[300]	valid_0's binary_logloss: 0.00196309	valid_1's binary_logloss: 0.00254133
+[400]	valid_0's binary_logloss: 0.00167266	valid_1's binary_logloss: 0.00252424
+[500]	valid_0's binary_logloss: 0.00142119	valid_1's binary_logloss: 0.0024969
+[600]	valid_0's binary_logloss: 0.00122249	valid_1's binary_logloss: 0.0025062
+Early stopping, best iteration is:
+[559]	valid_0's binary_logloss: 0.0012997	valid_1's binary_logloss: 0.0024877
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00338611	valid_1's binary_logloss: 0.00307566
+[200]	valid_0's binary_logloss: 0.00283242	valid_1's binary_logloss: 0.00266871
+[300]	valid_0's binary_logloss: 0.00254014	valid_1's binary_logloss: 0.00255911
+[400]	valid_0's binary_logloss: 0.0022873	valid_1's binary_logloss: 0.00248699
+[500]	valid_0's binary_logloss: 0.00209016	valid_1's binary_logloss: 0.00246536
+[600]	valid_0's binary_logloss: 0.00193332	valid_1's binary_logloss: 0.00242826
+[700]	valid_0's binary_logloss: 0.00177944	valid_1's binary_logloss: 0.00240178
+[800]	valid_0's binary_logloss: 0.00165062	valid_1's binary_logloss: 0.00239603
+[900]	valid_0's binary_logloss: 0.00152956	valid_1's binary_logloss: 0.00239343
+Early stopping, best iteration is:
+[847]	valid_0's binary_logloss: 0.00159415	valid_1's binary_logloss: 0.00238796
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.0033988	valid_1's binary_logloss: 0.0031777
+[200]	valid_0's binary_logloss: 0.00279493	valid_1's binary_logloss: 0.00261956
+[300]	valid_0's binary_logloss: 0.00249437	valid_1's binary_logloss: 0.00250231
+[400]	valid_0's binary_logloss: 0.00226092	valid_1's binary_logloss: 0.00244995
+[500]	valid_0's binary_logloss: 0.00205808	valid_1's binary_logloss: 0.00240995
+[600]	valid_0's binary_logloss: 0.00188563	valid_1's binary_logloss: 0.00238531
+[700]	valid_0's binary_logloss: 0.00173928	valid_1's binary_logloss: 0.00237194
+Early stopping, best iteration is:
+[693]	valid_0's binary_logloss: 0.00174674	valid_1's binary_logloss: 0.00236869
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00498032	valid_1's binary_logloss: 0.00735662
+Early stopping, best iteration is:
+[8]	valid_0's binary_logloss: 0.00976404	valid_1's binary_logloss: 0.00593633
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00323779	valid_1's binary_logloss: 0.0030288
+[200]	valid_0's binary_logloss: 0.00274726	valid_1's binary_logloss: 0.00267132
+[300]	valid_0's binary_logloss: 0.00274726	valid_1's binary_logloss: 0.00267132
+Early stopping, best iteration is:
+[204]	valid_0's binary_logloss: 0.00274726	valid_1's binary_logloss: 0.00267132
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00288848	valid_1's binary_logloss: 0.00344913
+[200]	valid_0's binary_logloss: 0.00213624	valid_1's binary_logloss: 0.00311593
+[300]	valid_0's binary_logloss: 0.00164905	valid_1's binary_logloss: 0.00300083
+[400]	valid_0's binary_logloss: 0.00125861	valid_1's binary_logloss: 0.00293802
+[500]	valid_0's binary_logloss: 0.000987731	valid_1's binary_logloss: 0.00294865
+Early stopping, best iteration is:
+[434]	valid_0's binary_logloss: 0.00115958	valid_1's binary_logloss: 0.00292746
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00290371	valid_1's binary_logloss: 0.0029125
+[200]	valid_0's binary_logloss: 0.0022273	valid_1's binary_logloss: 0.0026404
+[300]	valid_0's binary_logloss: 0.00182925	valid_1's binary_logloss: 0.00260174
+[400]	valid_0's binary_logloss: 0.0015114	valid_1's binary_logloss: 0.00256606
+[500]	valid_0's binary_logloss: 0.001255	valid_1's binary_logloss: 0.0025602
+Early stopping, best iteration is:
+[427]	valid_0's binary_logloss: 0.00143632	valid_1's binary_logloss: 0.00255211
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00297114	valid_1's binary_logloss: 0.00289237
+[200]	valid_0's binary_logloss: 0.00228795	valid_1's binary_logloss: 0.0024704
+[300]	valid_0's binary_logloss: 0.00191312	valid_1's binary_logloss: 0.00245764
+[400]	valid_0's binary_logloss: 0.00160321	valid_1's binary_logloss: 0.00239197
+[500]	valid_0's binary_logloss: 0.00134267	valid_1's binary_logloss: 0.00237711
+[600]	valid_0's binary_logloss: 0.00113422	valid_1's binary_logloss: 0.00237726
+[700]	valid_0's binary_logloss: 0.000963137	valid_1's binary_logloss: 0.00236851
+Early stopping, best iteration is:
+[638]	valid_0's binary_logloss: 0.00106108	valid_1's binary_logloss: 0.00235203
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00295789	valid_1's binary_logloss: 0.0031324
+[200]	valid_0's binary_logloss: 0.00176734	valid_1's binary_logloss: 0.00282162
+[300]	valid_0's binary_logloss: 0.00115348	valid_1's binary_logloss: 0.00277587
+[400]	valid_0's binary_logloss: 0.000838421	valid_1's binary_logloss: 0.00271119
+[500]	valid_0's binary_logloss: 0.000637764	valid_1's binary_logloss: 0.00269899
+Early stopping, best iteration is:
+[450]	valid_0's binary_logloss: 0.000736036	valid_1's binary_logloss: 0.00268693
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00291804	valid_1's binary_logloss: 0.00294919
+[200]	valid_0's binary_logloss: 0.00222189	valid_1's binary_logloss: 0.00266507
+[300]	valid_0's binary_logloss: 0.00181235	valid_1's binary_logloss: 0.00260092
+[400]	valid_0's binary_logloss: 0.00150404	valid_1's binary_logloss: 0.0025832
+[500]	valid_0's binary_logloss: 0.00122323	valid_1's binary_logloss: 0.0025597
+[600]	valid_0's binary_logloss: 0.00100498	valid_1's binary_logloss: 0.00257448
+Early stopping, best iteration is:
+[522]	valid_0's binary_logloss: 0.0011727	valid_1's binary_logloss: 0.00253648
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00330018	valid_1's binary_logloss: 0.00299128
+[200]	valid_0's binary_logloss: 0.00273709	valid_1's binary_logloss: 0.00258014
+[300]	valid_0's binary_logloss: 0.00243467	valid_1's binary_logloss: 0.00250149
+[400]	valid_0's binary_logloss: 0.00218213	valid_1's binary_logloss: 0.00242811
+[500]	valid_0's binary_logloss: 0.00196722	valid_1's binary_logloss: 0.00238871
+[600]	valid_0's binary_logloss: 0.00178471	valid_1's binary_logloss: 0.00238119
+[700]	valid_0's binary_logloss: 0.00162421	valid_1's binary_logloss: 0.00235201
+[800]	valid_0's binary_logloss: 0.00149189	valid_1's binary_logloss: 0.00232916
+[900]	valid_0's binary_logloss: 0.00136854	valid_1's binary_logloss: 0.00233288
+Early stopping, best iteration is:
+[841]	valid_0's binary_logloss: 0.00144427	valid_1's binary_logloss: 0.00232327
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00330018	valid_1's binary_logloss: 0.00299128
+[200]	valid_0's binary_logloss: 0.00273709	valid_1's binary_logloss: 0.00258014
+[300]	valid_0's binary_logloss: 0.00243467	valid_1's binary_logloss: 0.00250149
+[400]	valid_0's binary_logloss: 0.00218213	valid_1's binary_logloss: 0.00242811
+[500]	valid_0's binary_logloss: 0.00196722	valid_1's binary_logloss: 0.00238871
+[600]	valid_0's binary_logloss: 0.00178471	valid_1's binary_logloss: 0.00238119
+[700]	valid_0's binary_logloss: 0.00162421	valid_1's binary_logloss: 0.00235201
+[800]	valid_0's binary_logloss: 0.00149189	valid_1's binary_logloss: 0.00232916
+[900]	valid_0's binary_logloss: 0.00136854	valid_1's binary_logloss: 0.00233288
+Early stopping, best iteration is:
+[841]	valid_0's binary_logloss: 0.00144427	valid_1's binary_logloss: 0.00232327
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00330018	valid_1's binary_logloss: 0.00299128
+[200]	valid_0's binary_logloss: 0.00273709	valid_1's binary_logloss: 0.00258014
+[300]	valid_0's binary_logloss: 0.00243467	valid_1's binary_logloss: 0.00250149
+[400]	valid_0's binary_logloss: 0.00218213	valid_1's binary_logloss: 0.00242811
+[500]	valid_0's binary_logloss: 0.00196722	valid_1's binary_logloss: 0.00238871
+[600]	valid_0's binary_logloss: 0.00178471	valid_1's binary_logloss: 0.00238119
+[700]	valid_0's binary_logloss: 0.00162421	valid_1's binary_logloss: 0.00235201
+[800]	valid_0's binary_logloss: 0.00149189	valid_1's binary_logloss: 0.00232916
+[900]	valid_0's binary_logloss: 0.00136854	valid_1's binary_logloss: 0.00233288
+Early stopping, best iteration is:
+[841]	valid_0's binary_logloss: 0.00144427	valid_1's binary_logloss: 0.00232327
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00330018	valid_1's binary_logloss: 0.00299128
+[200]	valid_0's binary_logloss: 0.00273709	valid_1's binary_logloss: 0.00258014
+[300]	valid_0's binary_logloss: 0.00243467	valid_1's binary_logloss: 0.00250149
+[400]	valid_0's binary_logloss: 0.00218213	valid_1's binary_logloss: 0.00242811
+[500]	valid_0's binary_logloss: 0.00196722	valid_1's binary_logloss: 0.00238871
+[600]	valid_0's binary_logloss: 0.00178471	valid_1's binary_logloss: 0.00238119
+[700]	valid_0's binary_logloss: 0.00162421	valid_1's binary_logloss: 0.00235201
+[800]	valid_0's binary_logloss: 0.00149189	valid_1's binary_logloss: 0.00232916
+[900]	valid_0's binary_logloss: 0.00136854	valid_1's binary_logloss: 0.00233288
+Early stopping, best iteration is:
+[841]	valid_0's binary_logloss: 0.00144427	valid_1's binary_logloss: 0.00232327
+Training until validation scores don't improve for 100 rounds
+[100]	valid_0's binary_logloss: 0.00330379	valid_1's binary_logloss: 0.00300213
+[200]	valid_0's binary_logloss: 0.00274142	valid_1's binary_logloss: 0.00258062
+[300]	valid_0's binary_logloss: 0.00240325	valid_1's binary_logloss: 0.00246809
+[400]	valid_0's binary_logloss: 0.00214812	valid_1's binary_logloss: 0.0024041
+[500]	valid_0's binary_logloss: 0.00195374	valid_1's binary_logloss: 0.00236225
+[600]	valid_0's binary_logloss: 0.00177782	valid_1's binary_logloss: 0.00234525
+[700]	valid_0's binary_logloss: 0.00162265	valid_1's binary_logloss: 0.00232266
+[800]	valid_0's binary_logloss: 0.00148119	valid_1's binary_logloss: 0.00231788
+[900]	valid_0's binary_logloss: 0.00136923	valid_1's binary_logloss: 0.00230978
+[1000]	valid_0's binary_logloss: 0.00126069	valid_1's binary_logloss: 0.00230932
+Did not meet early stopping. Best iteration is:
+[1000]	valid_0's binary_logloss: 0.00126069	valid_1's binary_logloss: 0.00230932
+Best parameters:
+{'objective': 'binary', 'metric': 'binary_logloss', 'verbosity': -1, 'boosting_type': 'gbdt', 'sample_pos_weight': 981.7088122605364, 'feature_pre_filter': False, 'lambda_l1': 1.4345292519228377e-08, 'lambda_l2': 7.281566840896638, 'num_leaves': 5, 'feature_fraction': 0.92, 'bagging_fraction': 1.0, 'bagging_freq': 0, 'min_child_samples': 100, 'num_iterations': 1000}
+===  Training  ===
+Accuracy: 0.999668599188263
+Confusion Matrix:
+[[256224      2]
+ [    83    178]]
+AUPR: 0.9087811264718452
+AUROC: 0.9994357980127277
+=== Testing ===
+Accuracy: 0.9995789276691307
+Confusion Matrix:
+[[64068     1]
+ [   26    27]]
+AUPR: 0.6681031812660883
+AUROC: 0.9685083034004908
+===            ===
+Feature importance: [346 297 251 261 389 353 430 374 144 592 563]

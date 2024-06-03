@@ -57,12 +57,12 @@ def daily_animation(frame, ax_train, dates_coords_list, date_group, colors, tile
     for i, coords_list in enumerate(dates_coords_list):
         if len(coords_list) == 0:
             continue  # Skip if no coordinates
-
-        temp_lat = [coords[0] for coords in coords_list]
-        temp_lon = [coords[1] for coords in coords_list]
+        
+        temp_lat = coords_list[0]            # [coords[0] for coords in coords_list]
+        temp_lon = coords_list[1]            # [coords[1] for coords in coords_list]
         
         temp_projected_lon, temp_projected_lat = project_coordinates_to_df(temp_lat, temp_lon)
-        num_coords_to_show = min(len(temp_projected_lon), frame + 1)
+        num_coords_to_show = len(temp_projected_lon)
 
         i_date = list(date_group.groups)[i]
         color = colors[i_date]
@@ -82,16 +82,21 @@ def daily_animation(frame, ax_train, dates_coords_list, date_group, colors, tile
 
     return ax_train.figure
 
+
+
+def extract_coordinates(point):
+    # Remove 'POINT (' and ')' and then split by space
+    coords = point.replace('POINT (', '').replace(')', '').split()
+    return float(coords[0]), float(coords[1])
+
 def anomaly_agents_daily_animation(train_dataset_folder, test_dataset_folder):
 
-    output_folder_path = os.path.join(test_dataset_folder, 'plots/anomaly_agents_daily_trajectories/')
+    output_folder_path = os.path.join(test_dataset_folder, 'plots/anomaly_agents_daily_trajectories_newformat/')
     if not os.path.exists(output_folder_path):
         os.makedirs(output_folder_path)
     print(output_folder_path)
 
     #------------ read file ----------------
-    with open(os.path.join(test_dataset_folder + "preprocess/loc_coord_dict.pickle"), 'rb') as fp:
-        loc_coord_dict = pickle.load(fp)
     agent_anomaly_days_dict = np.load(os.path.join(train_dataset_folder, "preprocess/agent_anomaly_days_dict.npy"), allow_pickle=True).item()
     abnormal_agent_id_list = list(agent_anomaly_days_dict.keys())
 
@@ -100,21 +105,21 @@ def anomaly_agents_daily_animation(train_dataset_folder, test_dataset_folder):
     for temp_agent in abnormal_agent_id_list:
 
         # --- read full trajectory ---
-        temp_parquet_path = os.path.join(test_dataset_folder, 'event_logs', str(temp_agent) + '.parquet')
+        temp_parquet_path = os.path.join(test_dataset_folder, str(temp_agent) + '.parquet')
         df = pd.read_parquet(temp_parquet_path)
+
         if df['agent_id'].nunique() > 1:
             df = df.loc[df['agent_id'] == temp_agent]
         df = df.drop_duplicates(keep='first')
-        df = df.drop_duplicates(subset=["timestamp", "EventType"], keep='first')
-        df['datetime'] = pd.to_datetime(df['timestamp'])
+        df['datetime'] = pd.to_datetime(df['time_start'])
         df['day'] = df['datetime'].dt.date
-        df = df.sort_values(by=['timestamp', 'EventType'], ascending=[True, False]).reset_index()
+        df = df.sort_values(by='time_start', ascending=True).reset_index(drop=True)
+        df['coordinates'] = df['geometry'].apply(extract_coordinates)
+        df[['longitude', 'latitude']] = pd.DataFrame(df['coordinates'].tolist(), index=df.index)
 
         # --- read anomaly trajectory ---
         anomaly_days = set(agent_anomaly_days_dict[temp_agent])
         all_days = set(df['day'])
-        # print('anomaly_days', anomaly_days)
-        # print('all_days', all_days)
 
         # --- generate different color for different day ---
         date_group = df.groupby(by='day')
@@ -128,40 +133,31 @@ def anomaly_agents_daily_animation(train_dataset_folder, test_dataset_folder):
                 while color[0] > 0.8 and color[1] < 0.3 and color[2] < 0.3:  # Avoid generating colors that are too close to red
                     color = np.random.random(3)
                 colors[i_date] = color
+
         # --- get daily coordinates ---
-        max_tra_len = 0
         dates_coords_list = []
         dates_anomaly_coords_list = []
         for i_date, i_group in date_group:
-            temp_coords = []
-            anomaly_coords = []
-            for i in range(0, len(i_group), 2):
-                temp_coord = loc_coord_dict[i_group.iloc[i]['LocationUUID']]
-                if i_date in anomaly_days:
-                    anomaly_coord = loc_coord_dict[i_group.iloc[i]['LocationUUID']]
-                else:
-                    anomaly_coord = []
-                if isinstance(temp_coord[0], list):
-                    temp_coords += temp_coord
-                    anomaly_coords += anomaly_coord
-                else:
-                    temp_coords.append(temp_coord)
-                    anomaly_coords.append(temp_coord) 
-              
-            temp_coords = np.array(temp_coords)
+            longitude = list(i_group['longitude'])
+            latitude = list(i_group['latitude'])
+
+            temp_coord = [latitude, longitude]
+            if i_date in anomaly_days:
+                longitude = list(i_group['longitude'])
+                latitude = list(i_group['latitude'])
+                anomaly_coord = [latitude, longitude]
+            else:
+                anomaly_coord = []
+
+            temp_coords = np.array(temp_coord)
             dates_coords_list.append(temp_coords)
-            anomaly_coords = np.array(anomaly_coords)
+            anomaly_coords = np.array(anomaly_coord)
             dates_anomaly_coords_list.append(anomaly_coords)
-            temp_tra_len = len(temp_coords)
-            if temp_tra_len > max_tra_len:
-                max_tra_len = temp_tra_len
-        max_tra_len = min(max_tra_len, 7)
-        
-        
+
         # --- calculate extend ---
-        all_coords = np.concatenate(dates_coords_list)
-        all_coords_lat = all_coords[:, 0]
-        all_coords_lon = all_coords[:, 1]
+        all_coords_lat = df['latitude']
+        all_coords_lon = df['longitude']
+
         lat_min, lat_max, lon_min, lon_max = all_coords_lat.min(), all_coords_lat.max(), all_coords_lon.min(), all_coords_lon.max()
         tilemapbase.init(create=True)  # This initializes the tilemap library. The create=True argument suggests that it's creating a new map instance.
         lat_expand = 0.3 * (lat_max - lat_min)  # It calculates a latitude expansion value by taking 30% of the difference between the maximum and minimum latitude values.
@@ -201,6 +197,14 @@ if __name__ == '__main__':
     else:
         raise Exception("no dataset")
 
+
+
     anomaly_agents_daily_animation(train_dataset_folder, test_dataset_folder)
 
     print(f"total runtime: {time.time() - start}s")
+
+
+# python daily_animation_jia_newformat_trail2.py '/home/jxl220096/data/hay/new_format/trial2/sanfrancisco/train_stops/' '/home/jxl220096/data/hay/new_format/trial2/sanfrancisco/test_stops/'
+# python daily_animation_jia_newformat_trial2.py '/home/jxl220096/data/hay/new_format/trial2/knoxville/train_stops/' '/home/jxl220096/data/hay/new_format/trial2/knoxville/test_stops/'
+# python daily_animation_jia_newformat_trial2.py '/home/jxl220096/data/hay/new_format/trial2/losangeles/train_stops/' '/home/jxl220096/data/hay/new_format/trial2/losangeles/test_stops/'
+# python daily_animation_jia_newformat_trial2.py '/home/jxl220096/data/hay/new_format/trial2/singapore/train_stops/' '/home/jxl220096/data/hay/new_format/trial2/singapore/test_stops/'

@@ -406,7 +406,8 @@ if __name__ == '__main__':
     # gts_path_dict = {
     #     '/data/jxl220096/hay/trial2_oldformat/losangeles_eventlogs_train/': '/data/jxl220096/hay/trial2_oldformat/gts/la_gts',
     #     '/data/jxl220096/hay/trial2_oldformat/knoxville_unjoined_train/': '/data/jxl220096/hay/trial2_oldformat/gts/kx_gts',
-    #     '/data/jxl220096/hay/trial2_oldformat/sanfrancisco_train_eventlogs/': '/data/jxl220096/hay/trial2_oldformat/gts/sf_gts'
+    #     '/data/jxl220096/hay/trial2_oldformat/sanfrancisco_train_eventlogs/': '/data/jxl220096/hay/trial2_oldformat/gts/sf_gts', 
+    #     '/home/jxl220096/data/hay/trial2_oldformat/singapore_test_event_logs/': '/home/jxl220096/data/hay/new_format/trial2/gts/sp_gts',
     # }
 
     gts_path_dict = {
@@ -420,15 +421,17 @@ if __name__ == '__main__':
     agent_anomaly_days_dict(train_dataset_folder, gts_path)
 
     
-    # TODO: generate loc_coord_dict
+    # # TODO: generate loc_coord_dict
     # gdf, stopp = retrieve_gdf_stopp(train_dataset_folder, test_dataset_folder)
     # create_location_coordinates(test_dataset_folder, gdf, stopp)
-
     
-    # TODO: generate agent_date_time_sp_coords_dict
-    agent_date_time_sp_coords_dict(train_dataset_folder, test_dataset_folder, subsample_size)
+    # # TODO: generate agent_date_time_sp_coords_dict
+    # agent_date_time_sp_coords_dict(train_dataset_folder, test_dataset_folder, subsample_size)
 
 # python data_gen.py '/home/jxl220096/data/hay/new_format/trial2/sanfrancisco/train_stops/' '/home/jxl220096/data/hay/new_format/trial2/sanfrancisco/test_stops/'
 # python data_gen.py '/home/jxl220096/data/hay/new_format/trial2/knoxville/train_stops/' '/home/jxl220096/data/hay/new_format/trial2/knoxville/test_stops/'
 # python data_gen.py '/home/jxl220096/data/hay/new_format/trial2/losangeles/train_stops/' '/home/jxl220096/data/hay/new_format/trial2/losangeles/test_stops/'
 # python data_gen.py '/home/jxl220096/data/hay/new_format/trial2/singapore/train_stops/' '/home/jxl220096/data/hay/new_format/trial2/singapore/test_stops/'
+
+
+# python data_gen.py /home/jxl220096/data/hay/trial2_oldformat/singapore_train_event_logs/ /home/jxl220096/data/hay/trial2_oldformat/singapore_test_event_logs/
